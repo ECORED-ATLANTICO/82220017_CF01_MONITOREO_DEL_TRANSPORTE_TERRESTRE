@@ -2,13 +2,13 @@
   &-1
     animation: float1 3.5s ease-in-out infinite alternate
     position: absolute
-    top: 20%
+    bottom: 10%
     right: 10%
   &-2
     animation: float1 2.8s ease-in-out infinite alternate
     position: absolute
-    top: 51%
-    right: 30%
+    top: 10%
+    left: 4%
 
 @keyframes float1
   0%
@@ -18,15 +18,44 @@
   
 .banner-principal .tarjeta
   background-position: left 50% !important
+  background-image: url('../assets/curso/portada/fondo-banner-principal-mobile.png') !important
+
+@media (min-width: 426px)
+  .banner-principal .tarjeta
+    background-image: url('../assets/curso/portada/fondo-banner-principal-tablet.png') !important
+    padding-right: 130px
+
+@media (min-width: 768px)
+  .banner-principal .tarjeta
+    padding-right: 0
+    overflow: hidden
+
+  .banner-principal__info
+    padding-right: 85px !important
+
+@media (min-width: 1025px)
+  .banner-principal .tarjeta
+    background-image: url('../assets/curso/portada/fondo-banner-principal.png') !important
+
+  .banner-principal__info
+    padding-right: unset !important
+
+@media (max-width: 440px)
+  .banner-principal__descripcion
+    margin-bottom: 30px
+    padding-right: 45px
+  .banner-principal__accion
+    margin-top: 30px
+    margin-bottom: 50px
 
 .banner-principal__row .banner-principal__img
   width: 400px !important  
 
-.titulo-principal.color-acento-contenido .titulo-principal__numero span
-  color: white !important
-
 .banner-interno__titulo__icono i
   color: $color-primario
+
+.banner-interno__fondo 
+  background-image: url('../assets/curso/portada/banner-interno.png') !important
 
 figcaption
   font-weight: normal
