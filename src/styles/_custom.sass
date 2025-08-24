@@ -59,3 +59,31 @@
 
 figcaption
   font-weight: normal
+
+.bg-color-acento-ac5
+  background-color: $color-acento-contenido-ac5
+
+.checklist
+  padding-left: 40px
+  width: fit-content
+
+  li
+    position: relative
+    padding: 10px 20px
+    padding-left: 0
+    border-bottom: 1px dotted #AFAFAF
+
+    &:last-child
+      border-bottom: none
+
+    &::before
+      content: url('../assets/curso/temas/check-icon.svg')
+      position: absolute
+      left: -20px
+
+  &--location
+    li
+      border-bottom: none
+      padding: 5px
+      &::before
+        content: url('../assets/curso/temas/location-icon.svg')
