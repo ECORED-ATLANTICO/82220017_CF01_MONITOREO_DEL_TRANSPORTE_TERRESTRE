@@ -63,6 +63,9 @@ figcaption
 .bg-color-acento-ac5
   background-color: $color-acento-contenido-ac5
 
+.bg-secundario-s5
+  background-color: $color-secundario-s5
+
 .checklist
   padding-left: 40px
   width: fit-content
@@ -87,3 +90,19 @@ figcaption
       padding: 5px
       &::before
         content: url('../assets/curso/temas/location-icon.svg')
+
+.fullwidth-bg
+  position: relative
+  z-index: 0
+
+  &--1::after
+    top: 0px
+    left: -60px
+    position: absolute
+    content: url('../assets/curso/temas/tema3/bg-1.png')
+
+    @media (max-width: 450px)
+      display: none
+
+.z-2
+  z-index: 2
