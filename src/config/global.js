@@ -230,21 +230,209 @@ export default {
   },
   complementario: [
     {
-      tema: '',
-      referencia: '',
+      tema: 'Infraestructura vial',
+      referencia:
+        'Álvarez, J. L. (s.f.). <em>Carreteras inteligentes: Qué son y cómo funcionan</em> [Video]. Tuteorica.com. https://www.tuteorica.com',
+      tipo: 'Video',
+      link: 'https://www.youtube.com/watch?v=m-SiexiuGxA',
+    },
+    {
+      tema: 'Educación Vial',
+      referencia:
+        'Tuteorica.com. (2023, 1 de diciembre). El concepto de Educación Vial. [Video]. YouTube',
       tipo: 'Sitio web',
-      link: '',
+      link: 'https://www.youtube.com/watch?v=av0DpZq89mg',
+    },
+    {
+      tema: 'Transporte terrestre',
+      referencia:
+        'Departamento Nacional de Planeación. (2017). <em>Manual de innovación en movilidad y transporte</em>. DNP.',
+      tipo: 'PDF',
+      link:
+        'https://portalterritorial.dnp.gov.co/KitOT/Content/uploads/Manual%20innovacion%20Movilidad%20y%20Transporte%20PDF.pdf',
     },
   ],
   glosario: [
     {
-      termino: 'Término',
-      significado: 'Definición',
+      termino: 'Accesibilidad universal',
+      significado:
+        'Diseño de transporte e infraestructura para que pueda ser utilizada por todas las personas, incluidas con discapacidad.',
+    },
+    {
+      termino: 'ANI',
+      significado:
+        'La ANI (Agencia Nacional de Infraestructura) es una entidad del gobierno colombiano, adscrita al Ministerio de Transporte, encargada de planear, coordinar, estructurar, contratar, ejecutar y supervisar proyectos de infraestructura de transporte en el país, especialmente bajo esquemas de asociación público-privada (APP).',
+    },
+    {
+      termino: 'Asistencia en caso de colisión',
+      significado:
+        'Sistema que detecta impactos y alerta a los servicios de emergencia automáticamente.',
+    },
+    {
+      termino: 'Auditoría vial',
+      significado:
+        'Evaluación técnica de una vía para identificar riesgos y proponer mejoras.',
+    },
+    {
+      termino: '<em>Calipers</em>',
+      significado:
+        'Los calipers, o calibradores de freno, son componentes esenciales del sistema de frenos de disco en un vehículo. Su función principal es aplicar presión a las pastillas de freno contra el disco (rotor), generando fricción que permite reducir la velocidad del vehículo o detenerlo por completo.',
+    },
+    {
+      termino: 'Cinturón de seguridad',
+      significado:
+        'Dispositivo que protege al ocupante del vehículo en caso de colisión.',
+    },
+    {
+      termino: 'Conducción autónoma nivel 5',
+      significado:
+        'Nivel más alto de automatización, donde el vehículo opera sin intervención humana en ningún entorno.',
+    },
+    {
+      termino: 'Cruce inteligente',
+      significado:
+        'Intersección equipada con sensores y semáforos automáticos para priorizar el tránsito.',
+    },
+    {
+      termino: 'Cultura vial',
+      significado:
+        'Conjunto de valores, normas, hábitos, actitudes y comportamientos que deben adoptar todos los actores del tránsito (conductores, peatones, ciclistas, motociclistas y pasajeros) para garantizar una convivencia segura, respetuosa y ordenada en las vías públicas.',
+    },
+    {
+      termino: 'Emergencia vial',
+      significado:
+        'Situación imprevista que afecta la circulación y requiere intervención urgente.',
+    },
+    {
+      termino: 'Entorno vial conflictivo',
+      significado:
+        'Es aquel espacio o situación dentro del sistema de tránsito donde se presentan condiciones que aumentan el riesgo de accidentes, congestión, mal comportamiento vial o falta de seguridad para los usuarios. Estos entornos afectan la fluidez del tránsito y ponen en riesgo la vida de conductores, peatones, ciclistas y pasajeros.',
+    },
+    {
+      termino: 'Gestión del tráfico',
+      significado:
+        'Conjunto de estrategias para optimizar el flujo vehicular y reducir los tiempos de desplazamiento.',
+    },
+    {
+      termino: 'INVIAS',
+      significado:
+        'El INVÍAS (Instituto Nacional de Vías) es una entidad pública del orden nacional, adscrita al Ministerio de Transporte de Colombia, encargada de planificar, construir, conservar y administrar la infraestructura vial no concesionada del país, especialmente las vías terciarias, secundarias y algunas troncales nacionales.',
+    },
+    {
+      termino: 'Micromovilidad',
+      significado:
+        'Transporte individual de corta distancia como patinetas o bicicletas eléctricas.',
+    },
+    {
+      termino: 'RUNT',
+      significado:
+        'Es una plataforma digital centralizada creada por el Gobierno Colombiano para almacenar, actualizar y validar en tiempo real toda la información relacionada con el tránsito, transporte y seguridad vial del país. Es administrado por el Ministerio de Transporte.',
+    },
+    {
+      termino: 'Red de sensores urbanos',
+      significado:
+        'Conjunto de dispositivos que recolectan información en tiempo real sobre movilidad y seguridad.',
+    },
+    {
+      termino: 'Simulación de tráfico',
+      significado:
+        'Uso de modelos computacionales para prever el comportamiento del tránsito en diferentes escenarios.',
+    },
+    {
+      termino: 'Vehículo conectado',
+      significado:
+        'Auto que se comunica con otros vehículos, infraestructura o redes para mejorar la seguridad y eficiencia.',
+    },
+    {
+      termino: 'Zapatas',
+      significado:
+        'Las zapatas son componentes clave del sistema de frenos de tambor en vehículos. Su función principal es generar fricción contra el tambor para reducir la velocidad del vehículo o detenerlo completamente cuando se aplica el freno.',
+    },
+    {
+      termino: 'Zona escolar',
+      significado:
+        'Área próxima a una institución educativa con regulación especial para proteger a niños y adolescentes.',
     },
   ],
   referencias: [
     {
-      referencia: '',
+      referencia:
+        'Agencia Nacional de Seguridad Vial de Colombia. (2020). Plan Nacional de Seguridad Vial 2020-2030: Una visión compartida para la década de acción. Agencia Nacional de Seguridad Vial.',
+      link: '',
+    },
+    {
+      referencia:
+        'Asociación Española de la Carretera (AEC). (2018). Manual de auditorías de seguridad vial. AEC.',
+      link: '',
+    },
+    {
+      referencia:
+        'Congreso de la República de Colombia. (2002). Ley 769 de 2002: Por la cual se expide el Código Nacional de Tránsito Terrestre y se dictan otras disposiciones. Diario Oficial de Colombia.',
+      link: '',
+    },
+    {
+      referencia:
+        'Dirección General de Tráfico (DGT) de España. (2019). Guía de buenas prácticas en seguridad vial urbana. DGT.',
+      link: '',
+    },
+    {
+      referencia:
+        'Federación Iberoamericana de Asociaciones de Ingeniería de Carreteras (FIARC). (2017). Manual de diseño geométrico de carreteras. FIARC.',
+      link: '',
+    },
+    {
+      referencia:
+        'Garrison, W. L., & Levinson, D. M. (2014). The Transportation Experience: Policy, Planning, and Deployment. Oxford University Press.',
+      link: '',
+    },
+    {
+      referencia:
+        'González, R. A. (2017). Transporte y movilidad urbana sostenible. Editorial UOC.',
+      link: '',
+    },
+    {
+      referencia:
+        'Ministerio de Transporte de Colombia. (2015). Reglamento Técnico para Vehículos Automotores (NTC 5202-1, 5202-2, etc.). Ministerio de Transporte.',
+      link: '',
+    },
+    {
+      referencia:
+        'Organización de las Naciones Unidas (ONU). (2016). Decenio de Acción para la Seguridad Vial 2011-2020: Columna vertebral de la seguridad vial. ONU.',
+      link: '',
+    },
+    {
+      referencia:
+        'Organización Panamericana de la Salud. (2020). Seguridad vial: herramientas para la prevención de lesiones por tránsito en América Latina.',
+      link: 'https://www.paho.org.',
+    },
+    {
+      referencia:
+        'Ortúzar, J. de D., & Willumsen, L. G. (2011). Modelling Transport (4th ed.). Wiley. (Ortúzar. J de D., 2011).',
+      link: '',
+    },
+    {
+      referencia:
+        'ONU. (2020). Plan Mundial para el Decenio de Acción para la Seguridad Vial 2021-2030.',
+      link: ' https://www.un.org',
+    },
+    {
+      referencia:
+        'Pons, L. (Coord.). (2017). Tráfico y seguridad vial: Una visión multidisciplinar. Editorial Dykinson.',
+      link: '',
+    },
+    {
+      referencia:
+        '<em>Rodriguez</em>, J.-P. (2020). The Geography of Transport Systems (5th ed.). Routledge.',
+      link: '',
+    },
+    {
+      referencia:
+        'Sánchez, R. (2019). Movilidad urbana sostenible: Conceptos, planificación y gestión. Editorial Reverté.',
+      link: '',
+    },
+    {
+      referencia:
+        'World Health Organization (WHO). (2018). Global status report on road safety 2018. WHO.',
       link: '',
     },
   ],
@@ -253,14 +441,15 @@ export default {
       titulo: 'ECOSISTEMA DE RECURSOS EDUCATIVOS DIGITALES',
       autores: [
         {
-          nombre: 'Nombre completo',
-          cargo: 'Responsable del ecosistema',
+          nombre: 'Milady Tatiana Villamil Castellanos',
+          cargo:
+            'Responsable del Ecosistema de Recursos Educativos Digitales (RED)',
           centro: 'Dirección General',
         },
         {
-          nombre: 'Nombre completo',
+          nombre: 'Miguel de Jesús Paredes Maestre',
           cargo: 'Responsable de línea de producción',
-          centro: 'Centro XYZ - Regional XYZ',
+          centro: 'Centro de Comercio y Servicios - Regional Atlántico',
         },
       ],
     },
@@ -268,9 +457,14 @@ export default {
       titulo: 'CONTENIDO INSTRUCCIONAL',
       autores: [
         {
-          nombre: 'Nombre responsable',
-          cargo: 'Nombre del rol',
-          centro: 'Centro XYZ - Regional XYZ',
+          nombre: 'Yasmín Andreina Maldonado Escobar',
+          cargo: 'Experta temática',
+          centro: 'Centro de Comercio y Servicios - Regional Atlántico',
+        },
+        {
+          nombre: 'Jair Coll Gallardo',
+          cargo: 'Evaluador instruccional',
+          centro: 'Centro de Comercio y Servicios - Regional Atlántico',
         },
       ],
     },
@@ -278,19 +472,19 @@ export default {
       titulo: 'DISEÑO Y DESARROLLO DE RECURSOS EDUCATIVOS DIGITALES',
       autores: [
         {
-          nombre: 'Nombre responsable',
-          cargo: 'Diseñador de contenidos',
-          centro: 'Centro XYZ - Regional XYZ',
+          nombre: 'Luis Gabriel Urueta',
+          cargo: 'Diseñador <i>web</i>',
+          centro: 'Centro de Comercio y Servicios - Regional Atlántico',
         },
         {
-          nombre: 'Nombre responsable',
-          cargo: 'Desarrollador <i>full stack</i>',
-          centro: 'Centro XYZ - Regional XYZ',
+          nombre: 'Fabio Fonseca Arguelles',
+          cargo: 'Desarrollador <i>full stack junior</i>',
+          centro: 'Centro de Comercio y Servicios - Regional Atlántico',
         },
         {
-          nombre: 'Nombre responsable',
+          nombre: 'Nelson Iván Vera Briceño',
           cargo: 'Animador y productor audiovisual',
-          centro: 'Centro XYZ - Regional XYZ',
+          centro: 'Centro de Comercio y Servicios - Regional Atlántico',
         },
       ],
     },
@@ -298,14 +492,24 @@ export default {
       titulo: 'VALIDACIÓN RECURSO EDUCATIVO DIGITAL',
       autores: [
         {
-          nombre: 'Nombre responsable',
-          cargo: 'Validador y vinculador de recursos educativos digitales',
-          centro: 'Centro XYZ - Regional XYZ',
+          nombre: 'María Fernanda Morales Angulo',
+          cargo: 'Evaluador de contenidos inclusivos y accesibles',
+          centro: 'Centro de Comercio y Servicios - Regional Atlántico',
         },
         {
-          nombre: 'Nombre responsable',
+          nombre: 'Luz Karime Amaya Cabra',
           cargo: 'Evaluador de contenidos inclusivos y accesibles',
-          centro: 'Centro XYZ - Regional XYZ',
+          centro: 'Centro de Comercio y Servicios - Regional Atlántico',
+        },
+        {
+          nombre: 'Jonathan Adié Villafañe',
+          cargo: 'Validador y vinculador de recursos digitales',
+          centro: 'Centro de Comercio y Servicios - Regional Atlántico',
+        },
+        {
+          nombre: 'Jairo Luis Valencia Ebratt',
+          cargo: 'Validador y vinculador de recursos digitales',
+          centro: 'Centro de Comercio y Servicios - Regional Atlántico',
         },
       ],
     },
