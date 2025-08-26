@@ -66,8 +66,8 @@
 
     p.mb-4 Son los comportamientos repetitivos, conscientes o adquiridos que las personas adoptan al interactuar en el espacio vial, ya sea en su rol de conductores, peatones o pasajeros. Estos hábitos están directamente relacionados con el nivel de seguridad, responsabilidad, eficiencia y respeto que se manifiesta durante el tránsito por las vías terrestres.
 
-    .row.align-items-center.justify-content-center.bg-secundario-s5.p-4.py-xl-0
-      .col-lg-5
+    .row.align-items-center.justify-content-center.bg-secundario-s5.p-4.ps-xl-0.py-xl-0
+      .col-lg-5.ps-xl-0
         figure
           img.mb-4.mb-lg-0(data-aos="fade-up")(src='@/assets/curso/temas/tema3/12.png', alt='Imagen decorativa')
       .col-lg-7

@@ -60,11 +60,20 @@
 figcaption
   font-weight: normal
 
+.text-acento-contenido
+  color: $color-acento-contenido
+
 .bg-color-acento-ac5
   background-color: $color-acento-contenido-ac5
 
+.bg-color-acento-ac20
+  background-color: $color-acento-contenido-ac20
+
 .bg-secundario-s5
   background-color: $color-secundario-s5
+
+.bg-secundario-s70
+  background-color: $color-secundario-s70
 
 .checklist
   padding-left: 40px
@@ -205,3 +214,54 @@ figcaption
     .tarjeta
       width: 450px
     position: relative
+
+.slider-wrapper
+  position: relative
+  .bg-orange
+    background-color: #FFEADD
+    position: absolute
+    top: -20px
+    left: -60px
+    bottom: -20px
+    right: -60px
+    width: calc( 100% + 168px  )
+    height: calc( 100% + 40px  )
+
+  .slyder-a__btn--atrs, .slyder-a__btn--sigt
+    background-color: $color-acento-botones
+    border-color: $color-acento-botones
+    opacity: 1
+
+  .slyder-a__bullets__item
+    background-color: #5F94D9
+    border-color: #5F94D9
+    opacity: 0.5
+    &--active
+      opacity: 1
+      
+.accesibilidad
+  z-index: 10
+
+.crd_hover_txt 
+  position: relative
+  padding: 0
+  overflow: hidden
+  border-radius: 1px
+
+.crd_hover_txt .crd_hover_txt--body 
+  position: absolute
+  padding: 18px 13px 20px
+  bottom: 0
+  transition: all .3s ease-in-out
+  transform: translateY(calc(100% - 55px))
+  background-color: $color-acento-botones
+
+.crd_hover_txt:hover .crd_hover_txt--body 
+  transition: all .3s ease-in-out
+  transform: translateY(0)
+  background-color: #DFE9F7
+
+@media (min-width: 1200px) and (max-width:1400px) 
+  .crd_hover_txt .crd_hover_txt--body p 
+      font-size: 14px
+      line-height: 18px
