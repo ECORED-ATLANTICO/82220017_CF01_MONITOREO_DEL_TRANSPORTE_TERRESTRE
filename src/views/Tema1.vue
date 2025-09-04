@@ -7,8 +7,11 @@
         span 1
       h1 Transporte terrestre
 
+    .cajon.color-secundario.p-4.mb-4.mb-lg-5
+      p.mb-0 Se define como el conjunto de sistemas, infraestructuras y operaciones destinadas al desplazamiento de personas, mercancías y recursos a través de vías carreteras y ferroviarias. Su análisis se orienta al estudio de parámetros operativos como capacidad vehicular, tiempos de tránsito, trazabilidad de rutas, control de carga, eficiencia en la distribución y cumplimiento de normativas de seguridad vial.
+
     #t_1_1(data-aos='zoom-in-right').titulo-segundo.color-acento-contenido.z-2
-      h3 1.1.	Historia del transporte terrestre
+      h3 1.1	Historia del transporte terrestre
 
     .row.align-items-center.justify-content-center.bg-color-acento-ac5.p-3.py-xl-0.mb-4
       .col-lg-5.ps-xl-0
@@ -17,7 +20,7 @@
       .col-lg-7
         p.mb-0 El transporte desde los primeros tiempos de la civilización ha sido una necesidad fundamental. Es por ello por lo que inicialmente, los desplazamientos se realizaban a pie, seguidos por el uso de animales domesticados como medio de carga y transporte de la época. Con el tiempo, surgieron tecnologías como la rueda (alrededor del 3500 a.C.), lo que marcó un antes y un después en la capacidad de mover personas y movilizar las mercancías. Las civilizaciones antiguas, como la egipcia y la romana, desarrollaron redes de caminos que sirvieron de base para los sistemas de transporte terrestre que conocemos hoy.
 
-    p.mb-4.mb-lg-5 Durante la Revolución Industrial la necesidad de mover más carga hizo que el transporte tuviese una transformación radical con la invención de la locomotora de vapor, posteriormente, el automóvil y el avión, que permitieron la conexiones más rápidas y globales (Rodriguez). En la actualidad, el transporte continúa evolucionando gracias a la digitalización, la electrificación y la movilidad inteligente, orientada a mejorar la eficiencia y sostenibilidad de los sistemas de desplazamiento.
+    p.mb-4.mb-lg-5 Durante la Revolución Industrial la necesidad de mover más carga hizo que el transporte tuviese una transformación radical con la invención de la locomotora de vapor, posteriormente, el automóvil y el avión, que permitieron la conexiones más rápidas y globales (Rodríguez). En la actualidad, el transporte continúa evolucionando gracias a la digitalización, la electrificación y la movilidad inteligente, orientada a mejorar la eficiencia y sostenibilidad de los sistemas de desplazamiento.
 
     .row.justify-content-center.align-items-center.bg-secundario-s70.rounded-3.p-4
       .col-auto
@@ -35,7 +38,7 @@
     Separador
 
     #t_1_2(data-aos='zoom-in-right').titulo-segundo.color-acento-contenido.z-2
-      h3 1.2.	Concepto del transporte terrestre
+      h3 1.2	Concepto del transporte terrestre
 
     .row.justify-content-center.align-items-center
       .col-lg-1.d-none.d-xl-block
@@ -52,7 +55,7 @@
     Separador
 
     #t_1_3(data-aos='zoom-in-right').titulo-segundo.color-acento-contenido.z-2
-      h3 1.3.	Tipología del transporte terrestre
+      h3 1.3	Tipología del transporte terrestre
 
     p.mb-4.mb-lg-5.z-2 Se clasifican según: medio físico, tipo de carga, espacio geográfico, gestión o propiedad, forma de organización.
     div.slider-wrapper
@@ -62,35 +65,35 @@
           .row.z-2.justify-content-center.align-items-center
             .col-lg-5
               h4.mb-4 Transporte según medio físico
-              p.mb-3.mb-lg-0 Está conformado por transporte de carretera y ferroviario: esto va a depender del terreno donde se desplaza en el caso de los vehículos donde se transportan sobre asfalto o caminos (automóviles, camiones, Transporte masivo, metro, motocicletas entre otros) en cambio en los transportes ferroviarios, circulan sobre los rieles, debido que usualmente transportan grandes volúmenes ya sea de carga o pasajeros de un lugar a otro.
+              p.mb-3.mb-lg-0 Se refiere al tipo de infraestructura sobre la cual se desplaza el vehículo. Principalmente, está conformado por el transporte de carretera, donde los vehículos (automóviles, camiones, buses, motocicletas) se mueven sobre asfalto o caminos. Por otro lado, el transporte ferroviario utiliza rieles y está diseñado usualmente para movilizar grandes volúmenes de carga o pasajeros a lo largo de distancias extensas.
             .col-10.col-lg-6
               figure
                 img(src='@/assets/curso/temas/tema1/9.png', alt='Texto que describa la imagen')
           .row.z-2.justify-content-center.align-items-center
             .col-lg-5
               h4.mb-4 Transporte según tipo de carga
-              p.mb-3.mb-lg-0 Entre los tipos de transporte nos encontramos los transportes de pasajeros: automóviles, taxis, vehículos particulares, colectivos y trenes de pasajeros. Sin embargo, de este tipo va a depender su carga a volumen, por ejemplo: camiones, trenes, furgonetas ente otros.
+              p.mb-3.mb-lg-0 Esta clasificación diferencia el transporte según lo que moviliza. Incluye el transporte de pasajeros (automóviles, taxis, vehículos particulares, colectivos, trenes de pasajeros) y el transporte de carga, que a su vez se subdivide según el volumen, peso o naturaleza de la mercancía.
             .col-10.col-lg-6
               figure
                 img(src='@/assets/curso/temas/tema1/10.png', alt='Texto que describa la imagen')
           .row.z-2.justify-content-center.align-items-center
             .col-lg-5
               h4.mb-4 Transporte según espacio geográfico
-              p.mb-3.mb-lg-0 Se clasifica de acuerdo con el tipo de territorio en el que se realiza el desplazamiento de personas o mercancías. Los principales son: urbano, aplicado al transporte dentro de ciudades (colectivos urbanos, taxis, metro, etc.) rural, el cual se realiza en zonas alejadas de centros urbanos, con menor densidad poblacional. Los interurbanos son aquellos transportes que se realizan entre diferentes ciudades y los internacionales son aquellos buses que tienen el alcance de cruzar las fronteras de un país a otro.
+              p.mb-3.mb-lg-0 Define el ámbito territorial de la operación. El transporte urbano se aplica a desplazamientos dentro de l as ciudades (colectivos urbanos, taxis, metro). El interurbano se realiza entre diferentes ciudades de un mismo país.
             .col-10.col-lg-6
               figure
                 img(src='@/assets/curso/temas/tema1/11.png', alt='Texto que describa la imagen')
           .row.z-2.justify-content-center.align-items-center
             .col-lg-5
               h4.mb-4 Transporte según la gestión o propiedad
-              p.mb-3.mb-lg-0 Se clasifica atendiendo a quién posee, administra o controla el servicio o medio de transporte; ya sea de servicio público (depende del permiso del estado) o privado (taxis, flotas de camiones privados, servicio de transporte por aplicaciones).
+              p.mb-3.mb-lg-0 Se basa en la naturaleza del operador y la regulación que lo rige. Puede ser de servicio público, que opera bajo permiso o concesión del Estado y está regulado para servir a la comunidad o privado, gestionado por empresas o individuos para sus propias necesidades o mediante contratos específicos.
             .col-10.col-lg-6
               figure
                 img(src='@/assets/curso/temas/tema1/12.png', alt='Texto que describa la imagen')
           .row.z-2.justify-content-center.align-items-center
             .col-lg-5
               h4.mb-4 Trasporte de forma de organización 
-              p.mb-3.mb-lg-0 Este tipo define la modalidad de ser usado ya sea para el uso individual o colectivo.
+              p.mb-3.mb-lg-0 Este criterio se relaciona con el modelo de negocio o la estructura bajo la cual se presta el servicio. Ejemplos incluyen el transporte individual (vehículo particular), transporte colectivo (buses, trenes), transporte multimodal (combinación de varios modos), o servicios especializados (como transporte de valores o de mercancías peligrosas).
             .col-10.col-lg-6
               figure
                 img(src='@/assets/curso/temas/tema1/13.png', alt='Texto que describa la imagen')
@@ -98,7 +101,7 @@
     Separador
 
     #t_1_4(data-aos='zoom-in-right').titulo-segundo.color-acento-contenido.z-2
-      h3 1.4.	Normativa
+      h3 1.4	Normativa
 
     p La normativa del transporte terrestre comprende el conjunto de leyes, decretos, resoluciones y reglamentos que regulan la prestación del servicio de transporte por vía terrestre, ya sea de pasajeros, carga o mixto. Estas normas buscan garantizar que el transporte se realice de manera segura, eficiente, ordenada, equitativa y sostenible, protegiendo tanto a los usuarios como a los operadores y al medio ambiente.
     p Los componentes claves de la normativa son los siguientes:
@@ -123,7 +126,7 @@
                 img.factores-slider__icon.mb-4(src='@/assets/curso/temas/tema1/16.png' alt='Ilustacion de acompañamiento')
             .factores-slider__title-wrapper  
               h4.factores-slider__title.mb-4 Condiciones técnicas y mecánicas
-            p.mb-4.text-center VExigencias relacionadas con el estado del vehículo, revisiones técnico-mecánicas, sistemas de seguridad y equipamiento.
+            p.mb-4.text-center Exigencias relacionadas con el estado del vehículo, revisiones técnico-mecánicas, sistemas de seguridad y equipamiento.
 
           .tarjeta.tarjeta--secundario-s5.px-4.pt-5.factores-slider__tarjeta
             .row.justify-content-center.mb-3
@@ -131,7 +134,7 @@
                 img.factores-slider__icon.mb-4(src='@/assets/curso/temas/tema1/17.png' alt='Ilustacion de acompañamiento')
             .factores-slider__title-wrapper  
               h4.factores-slider__title.mb-4 Normas de tránsito
-            p.mb-4.text-center Reglas para la circulación segura en las vías, como límites de velocidad, señalización, maniobras permitidas y uso obligatorio de elementos de seguridad
+            p.mb-4.text-center Reglas para la circulación segura en las vías, como límites de velocidad, señalización, maniobras permitidas y uso obligatorio de elementos de seguridad.
 
           .tarjeta.tarjeta--secundario-s5.px-4.pt-5.factores-slider__tarjeta
             .row.justify-content-center.mb-3
@@ -149,34 +152,26 @@
               h4.factores-slider__title.mb-4 Control y sanciones
             p.mb-4.text-center Establecen los procedimientos para la vigilancia y el control, así como las sanciones ante el incumplimiento de las normas (multas, suspensiones, inmovilizaciones, etc.).
 
-          .tarjeta.tarjeta--secundario-s5.px-4.pt-5.factores-slider__tarjeta
-            .row.justify-content-center.mb-3
-              .col-7
-                img.factores-slider__icon.mb-4(src='@/assets/curso/temas/tema1/17.png' alt='Ilustacion de acompañamiento')
-            .factores-slider__title-wrapper  
-              h4.factores-slider__title.mb-4 Jurisdicción municipal o distrital
-            p.mb-4.text-center Calles, avenidas urbanas y rutas locales a cargo de alcaldías o secretarías de movilidad.
-
     p.mb-4 Entidades encargadas de regular y controlar: en Colombia, por ejemplo; estas funciones están a cargo de:
 
-    .row.justify-content-center.z-2
-      .col-sm-6.col-xl-3
-        .p-3.bg-color-acento-ac20.rounded-3.mb-3
+    .row.justify-content-center.align-items-stretch.z-2
+      .col-sm-6.col-xl-3.mb-3.mb-xl-0
+        .p-3.bg-color-acento-ac20.rounded-3.h-100
           p.text-center.mb-0 Ministerio de Transporte.
-      .col-sm-6.col-xl-3
-        .p-3.bg-color-acento-ac20.rounded-3.mb-3
+      .col-sm-6.col-xl-3.mb-3.mb-xl-0
+        .p-3.bg-color-acento-ac20.rounded-3.h-100
           p.text-center.mb-0 Superintendencia de Transporte.
-      .col-sm-6.col-xl-3
-        .p-3.bg-color-acento-ac20.rounded-3.mb-3
+      .col-sm-6.col-xl-3.mb-3.mb-xl-0
+        .p-3.bg-color-acento-ac20.rounded-3.h-100
           p.text-center.mb-0 Direcciones de tránsito municipales o departamentales.
-      .col-sm-6.col-xl-3
-        .p-3.bg-color-acento-ac20.rounded-3.mb-3
+      .col-sm-6.col-xl-3.mb-3.mb-xl-0
+        .p-3.bg-color-acento-ac20.rounded-3.h-100
           p.text-center.mb-0 Policía de Tránsito y Transporte.
 
     Separador
     .fullwidth-bg.fullwidth-bg--1
     #t_1_5(data-aos='zoom-in-right').titulo-segundo.color-acento-contenido.z-2
-      h3 1.5.	Medios de transporte
+      h3 1.5	Medios de transporte
     
     p.mb-4.mb-lg-5.z-2 El transporte terrestre comprende todos aquellos vehículos que se movilizan por vías terrestres, como carreteras, autopistas, calles, senderos o vías férreas. Se clasifican principalmente en transporte de pasajeros y transporte de carga, y cada tipo presenta características técnicas y operativas específicas que deben ser consideradas en los procesos de planificación, seguimiento y evaluación. La clasificación del transporte terrestre esta de la siguiente manera:
 
@@ -188,7 +183,7 @@
               img(src="@/assets/curso/temas/tema1/21.jpg", alt="Transporte público")
           .crd_hover_txt--body.text-center
             h5.mb-3 Transporte público
-            p.mb-0 <small>El transporte público incluye buses, taxis y sistemas masivos como transmilenio o transmetro, gestionados por entidades oficiales. Busca movilizar eficientemente a muchas personas, garantizando accesibilidad y equidad dentro de ciudades o hacia zonas rurales.</small>
+            p.mb-0 <small>Engloba buses, busetas, microbuses, taxis y colectivos que prestan servicio urbano o intermunicipal. Su propósito es movilizar grandes cantidades de personas de forma eficiente. En ciudades más grandes, se incluyen también sistemas integrados como Transmilenio, MIO, Metroplús y transporte masivo como el metro o tren ligero, donde existan. Generalmente es gestionado por entidades gubernamentales o empresas autorizadas. Su propósito es: dar accesibilidad y equidad social al transportar a las personas de una localidad dentro de la ciudad o hacia zonas rurales.</small>
       .col-md-8.col-lg-6.mb-4
         .crd_hover_txt(data-aos="flip-left")
           .crd_hover_txt--img
@@ -196,7 +191,7 @@
               img(src="@/assets/curso/temas/tema1/22.jpg", alt="Transporte privado")
           .crd_hover_txt--body.text-center
             h5.mb-3 Transporte privado
-            p.mb-0 <small>El transporte privado, como carros y motos personales, ofrece autonomía y flexibilidad en los desplazamientos diarios. Sin embargo, su alto volumen representa un desafío para la gestión del tráfico y contribuye a la congestión vial.</small>
+            p.mb-0 <small>El transporte privado es el que se maneja a un ritmo personalizado. Este tipo de vehículos de propiedad personal o familiar, como un carro o una moto permite brindar autonomía y flexibilidad en el desplazamiento diario, representan un reto para la gestión del tráfico debido a su volumen y contribución a la congestión vial.</small>
       .col-md-8.col-lg-6.mb-4
         .crd_hover_txt(data-aos="flip-left")
           .crd_hover_txt--img
@@ -204,7 +199,7 @@
               img(src="@/assets/curso/temas/tema1/23.jpg", alt="Transporte de carga")
           .crd_hover_txt--body.text-center
             h5.mb-3 Transporte de carga
-            p.mb-0 <small>El transporte de carga moviliza mercancías, alimentos y materias primas mediante camiones, furgones o remolques. Su monitoreo es clave para controlar tiempos de entrega, condiciones de la carga y garantizar seguridad en la operación.</small>
+            p.mb-0 <small>Es utilizado para movilizar mercancías, materias primas, alimentos u otros bienes. Está representado por vehículos como camiones, tractomulas, furgones, volquetas y remolques. El monitoreo en este tipo de transporte es esencial para controlar tiempos de entrega, condiciones de la carga y seguridad en la operación.</small>
       .col-md-8.col-lg-6.mb-4
         .crd_hover_txt(data-aos="flip-left")
           .crd_hover_txt--img
@@ -212,15 +207,15 @@
               img(src="@/assets/curso/temas/tema1/24.jpg", alt="Transporte especial")
           .crd_hover_txt--body.text-center
             h5.mb-3 Transporte especial
-            p.mb-0 <small>El transporte especial atiende personas con necesidades específicas, como: escolares, personas con discapacidad, turistas o pacientes. Requiere condiciones técnicas y normativas especiales para garantizar seguridad, accesibilidad y dignidad en cada desplazamiento.</small>
+            p.mb-0 <small>Este tipo de transporte especial está diseñado pensando en personas con necesidades específicas. Por ejemplo, los buses escolares, los vehículos que transportan a personas con discapacidad, buses corporativos, turísticos y ambulancias entre otros. Para ello este transporte requiere condiciones técnicas particulares y debe cumplir con normativas especiales para asegurar que cada usuario se desplace con seguridad y dignidad.</small>
 
     .row.justify-content-center.align-items-center.z-2.mb-4.mb-lg-5
       .col-12
         .titulo-sexto.color-acento-contenido.mb-4
           h5 Figura 1.
           span Clasificación del transporte
-        img.mb-1.d-sm-none(data-aos="fade-down")(src="@/assets/curso/temas/tema1/25-mob.jpg", alt="se describe la clasificación del transporte según su función. Autobuses públicos: facilitan el acceso equitativo al transporte urbano. Automóviles personales: brindan autonomía en el transporte diario. Vehículos personales de carga: ofrecen flexibilidad en el transporte privado. Camiones de carga: son esenciales para el transporte publico de mercancías.")
-        img.mb-1.d-none.d-md-block(data-aos="fade-down")(src="@/assets/curso/temas/tema1/25.jpg", alt="se describe la clasificación del transporte según su función. Autobuses públicos: facilitan el acceso equitativo al transporte urbano. Automóviles personales: brindan autonomía en el transporte diario. Vehículos personales de carga: ofrecen flexibilidad en el transporte privado. Camiones de carga: son esenciales para el transporte publico de mercancías.")
+        img.mb-1.d-sm-none(data-aos="fade-down")(src="@/assets/curso/temas/tema1/25-mob.svg", alt="se describe la clasificación del transporte según su función. Autobuses públicos: facilitan el acceso equitativo al transporte urbano. Automóviles personales: brindan autonomía en el transporte diario. Vehículos personales de carga: ofrecen flexibilidad en el transporte privado. Camiones de carga: son esenciales para el transporte publico de mercancías.")
+        img.mb-1.d-none.d-md-block(data-aos="fade-down")(src="@/assets/curso/temas/tema1/25.svg", alt="se describe la clasificación del transporte según su función. Autobuses públicos: facilitan el acceso equitativo al transporte urbano. Automóviles personales: brindan autonomía en el transporte diario. Vehículos personales de carga: ofrecen flexibilidad en el transporte privado. Camiones de carga: son esenciales para el transporte publico de mercancías.")
         figcaption <strong>Fuente:</strong> SENA, 2025.
 
 </template>

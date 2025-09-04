@@ -5,7 +5,7 @@
     .titulo-principal.color-acento-contenido
       .titulo-principal__numero
         span 4
-      h1 Código Nacional de Tránsito
+      h1 Código nacional de tránsito
 
     .row.align-items-center.justify-content-center.bg-secundario-s5.p-4.ps-xl-0.py-xl-0.mb-4.mb-lg-5
       .col-lg-5.ps-xl-0
@@ -20,7 +20,7 @@
           img.mb-4.mb-xl-0(data-aos="fade-up")(src='@/assets/curso/temas/tema5/9.svg', alt='Imagen decorativa')
       .col-lg-6
         p El código de tránsito incluye aspectos claves como:
-        .p-3.bg-color-acento-ac5
+        .p-3.bg-color-acento-ac5.mb-4.mb-lg-0
           ul.checklist
             li.py-1 Clasificación y señalización de vías.
             li.py-1 Licencias de conducción y requisitos para circular.
@@ -78,12 +78,12 @@
 
     .fullwidth-bg.fullwidth-bg--1
     #t_4_1(data-aos='zoom-in-right').titulo-segundo.color-acento-contenido.z-2
-      h3 4.1.	Principios
+      h3 4.1	Principios
 
     .row.justify-content-center.align-items-center.z-2
       .col-lg-8
         p Los principios del Código Nacional de Tránsito Terrestre de Colombia, establecidos en la Ley 769 de 2002, constituyen el fundamento normativo y ético que guía la regulación del comportamiento de todos los actores viales en el país. Estos principios orientan la aplicación de las normas de tránsito con el fin de garantizar la seguridad vial, proteger la vida y la integridad física de las personas, conservar el medio ambiente, y asegurar una movilidad eficiente, equitativa y ordenada.
-        p Principios fundamentales del Código Nacional de Transito:
+        p Principios fundamentales del código nacional de transito:
         ul.checklist.checklist--location
           li La seguridad de las personas como prioridad en la movilidad.
           li La protección del medio ambiente mediante un tránsito sostenible y responsable.
@@ -98,7 +98,7 @@
     Separador
 
     #t_4_2(data-aos='zoom-in-right').titulo-segundo.color-acento-contenido.z-2
-      h3 4.2.	Autoridades
+      h3 4.2	Autoridades
 
     .cajon.color-acento-contenido.p-4.mb-4.mb-lg-5
       p.mb-0 Las autoridades del Código Nacional de Tránsito Terrestre son las entidades públicas y funcionarios legalmente facultados para planear, regular, controlar, sancionar y vigilar las actividades relacionadas con la circulación de personas, vehículos y animales por las vías del territorio colombiano, de acuerdo con lo establecido en la Ley 769 de 2002 y sus reformas. Estas autoridades desempeñan un papel esencial en el funcionamiento y supervisión del sistema de movilidad, pues garantizan que las normas de tránsito se cumplan, que los derechos y deberes de los actores viales se respeten, y que se promueva una movilidad segura, ordenada y sostenible.
@@ -147,12 +147,12 @@
     Separador
 
     #t_4_3(data-aos='zoom-in-right').titulo-segundo.color-acento-contenido.z-2
-      h3 4.3.	Registro de Información
+      h3 4.3	Registro de información
 
     .row.justify-content-center.align-items-center.z-2
       .col-10.col-sm-6.col-lg-4
         figure
-          img(data-aos="fade-up")(src='@/assets/curso/temas/tema4/14.png', alt='imagen decorativa')
+          img.mb-4.mb-lg-0(data-aos="fade-up")(src='@/assets/curso/temas/tema4/14.png', alt='imagen decorativa')
       .col-lg-8
         .cajon.color-secundario.p-4.mb-4
           p.mb-0 Es el proceso sistemático de capturar, organizar, almacenar y actualizar datos relevantes sobre las operaciones, eventos o condiciones que ocurren durante el desarrollo del transporte terrestre. Este proceso puede realizarse de forma manual o digital, y su correcta ejecución permite generar trazabilidad, tomar decisiones informadas, prevenir incidentes y optimizar los recursos logísticos y humanos involucrados en la movilidad vial.
@@ -166,7 +166,7 @@
     Separador
 
     #t_4_4(data-aos='zoom-in-right').titulo-segundo.color-acento-contenido.z-2
-      h3 4.4.	Licencias
+      h3 4.4	Licencias
 
     .bloque-texto-a.color-acento-contenido.p-4.p-md-5.mb-5
       .row.m-0.align-items-center.justify-content-between
@@ -180,7 +180,7 @@
     Separador
 
     #t_4_5(data-aos='zoom-in-right').titulo-segundo.color-acento-contenido.z-2
-      h3 4.5.	Condiciones del vehículo
+      h3 4.5	Condiciones del vehículo
 
     p Las condiciones del vehículo hacen referencia al estado técnico, mecánico, estructural y funcional de todos los sistemas, componentes y elementos que conforman un automotor, garantizando que esté en capacidad óptima para circular de manera segura, eficiente y conforme a la normativa legal vigente. Estas condiciones abarcan aspectos clave como el sistema de frenos, dirección, suspensión, luces, llantas, motor, carrocería, entre otros.
 
@@ -234,10 +234,10 @@
             figure
               img(src='@/assets/curso/temas/tema4/19.png', alt='Imagen decorativa')
 
-      .tarjeta.bg-color-acento-ac5.p-5(titulo="Sistema de Luces")
+      .tarjeta.bg-color-acento-ac5.p-5(titulo="Sistema de luces")
         .row.justify-content-center
           .col-md-6
-            h4 Sistema de Luces
+            h4 Sistema de luces
             p Conjunto de dispositivos eléctricos diseñados para iluminar la vía, mejorar la visibilidad y comunicar las acciones del conductor a otros usuarios de la carretera. Es fundamental para la seguridad activa, especialmente en condiciones de poca luz o clima adverso. Está compuesto por:
             ul.checklist.checklist--location
               li Luces delanteras.
@@ -294,7 +294,7 @@
               li Guardabarros.
               li Parachoques.
               li Cofre y baúl.
-              li Ventanas y parabrisas
+              li Ventanas y parabrisas.
           .col-md-6
             figure
               img(src='@/assets/curso/temas/tema4/23.png', alt='Imagen decorativa')
@@ -304,22 +304,22 @@
         .titulo-sexto.color-acento-contenido.mb-4
           h5 Figura 2.
           span Estructura de la normativa vial
-        img.mb-1.d-sm-none(data-aos="fade-down")(src="@/assets/curso/temas/tema4/24-mob.png", alt="Estructura de la normativa vial. La figura muestra son los componentes que hacen parte del cumplimiento de la Normatividad vial y que significa cada uno")
-        img.mb-1.d-none.d-md-block(data-aos="fade-down")(src="@/assets/curso/temas/tema4/24.png", alt="Estructura de la normativa vial. La figura muestra son los componentes que hacen parte del cumplimiento de la Normatividad vial y que significa cada uno")
+        img.mb-1.d-sm-none(data-aos="fade-down")(src="@/assets/curso/temas/tema4/24-mob.svg", alt="Estructura de la normativa vial. La figura muestra son los componentes que hacen parte del cumplimiento de la Normatividad vial y que significa cada uno")
+        img.mb-1.d-none.d-md-block(data-aos="fade-down")(src="@/assets/curso/temas/tema4/24.svg", alt="Estructura de la normativa vial. La figura muestra son los componentes que hacen parte del cumplimiento de la Normatividad vial y que significa cada uno")
         figcaption <strong>Fuente:</strong> SENA, 2025.
 
     .fullwidth-bg.fullwidth-bg--1
     Separador
 
     #t_4_6(data-aos='zoom-in-right').titulo-segundo.color-acento-contenido.z-2
-      h3 4.6.	Seguros y responsabilidades del vehículo
+      h3 4.6	Seguros y responsabilidades del vehículo
 
     p.mb-4.mb-lg-5.z-2 Los seguros son contratos que transfieren el riesgo económico derivado de posibles accidentes, daños o pérdidas, desde el propietario del vehículo hacia una compañía aseguradora. En Colombia, el seguro obligatorio más representativo es el SOAT (Seguro Obligatorio de Accidentes de Tránsito), que cubre daños corporales a ocupantes y terceros, independientemente de quién tenga la culpa en un accidente. Además del SOAT, existen seguros voluntarios que cubren aspectos como daños materiales, robo, responsabilidad civil extracontractual, carga transportada, entre otros. Estos son fundamentales en operaciones logísticas, de carga o transporte de pasajeros, donde se manejan altos niveles de riesgo.
 
     .row.justify-content-center.align-items-center.z-2.mb-4.mb-lg-5
       .col-10.col-sm-6.col-lg-4
         figure
-          img(data-aos="fade-up")(src='@/assets/curso/temas/tema4/25.png', alt='imagen decorativa')
+          img.mb-4.mb-lg-0(data-aos="fade-up")(src='@/assets/curso/temas/tema4/25.png', alt='imagen decorativa')
       .col-lg-8
         p Responsabilidad: responde civilmente por daños ocasionales a terceros (persona -bienes), documento obligatorio.
         ul.checklist.checklist--location
@@ -331,7 +331,7 @@
 
     .titulo-sexto.color-acento-contenido.mb-4
       h5 Tabla 1.
-      span Estructura de la normativa vial
+      span Seguro y responsabilidades del vehículo
     .tabla-a.color-acento-contenido
       table
         caption <strong>Fuente</strong>: SENA, 2025.
@@ -368,24 +368,24 @@
             td SOAT
           tr(style="background-color: #F6F6F6")
             td Seguro de responsabilidad
-            td Cubre daños a terceros.
-            td Cobertura extendida.
-            td Contractual y extra contractual.
-            td Póliza contractual.
-            td Cubre daños a terceros.
+            td Cubre daños a terceros
+            td Cobertura extendida
+            td Contractual y extra contractual
+            td Póliza contractual
+            td Cubre daños a terceros
           tr
             td Seguros adicionales
-            td Todo riesgo, asistencia en carretera.
-            td Seguro de carga, póliza de transporte.
-            td Accidente personal, perdida de ganancias.
-            td Riesgos especiales, pólizas ambientales.
+            td Todo riesgo, asistencia en carretera
+            td Seguro de carga, póliza de transporte
+            td Accidente personal, perdida de ganancias
+            td Riesgos especiales, pólizas ambientales
             td Cubre daños a tercero.
           tr(style="background-color: #F6F6F6")
             td Responsabilidades
-            td Responsabilidad civil por daños.
-            td Perdida o daño de mercancías.
-            td Cumplimiento de condiciones de seguridad.
-            td Cumplimiento de regulaciones estrictas. 
+            td Responsabilidad civil por daños
+            td Perdida o daño de mercancías
+            td Cumplimiento de condiciones de seguridad
+            td Cumplimiento de regulaciones estrictas.
             td Daños personales/materiales
     
 </template>

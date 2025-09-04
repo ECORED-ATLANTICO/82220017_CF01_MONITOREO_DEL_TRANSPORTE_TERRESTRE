@@ -10,10 +10,15 @@
     figure
       img(data-aos="fade-up")(src="@/assets/curso/temas/tema2/1.png" alt="Imagen decorativa")
 
+    .row.justify-content-center.z-2
+      .col-lg-10.p-4.drop-shadow(data-aos="fade-down")
+        div.banner-text
+          p.mb-0 La infraestructura vial no solo cumple una función estructural dentro del sistema de transporte terrestre, sino que también se integra como un componente estratégico en la planificación logística y la competitividad de los territorios.
+
     Separador
 
     #t_2_1(data-aos='zoom-in-right').titulo-segundo.color-acento-contenido.z-2
-      h3 2.1.	Definición
+      h3 2.1	Definición
 
     p.mb-4 La infraestructura vial constituye un componente esencial para comprender el funcionamiento del sistema de movilidad. Se refiere al conjunto de elementos físicos construidos para permitir, facilitar y regular el tránsito de vehículos, peatones y otros medios de transporte sobre el territorio.
     .bloque-texto-a.color-acento-contenido.p-4.p-md-5.mb-5
@@ -28,7 +33,7 @@
     Separador
 
     #t_2_2(data-aos='zoom-in-right').titulo-segundo.color-acento-contenido.z-2
-      h3 2.2.	Nomenclatura de la jurisdicción
+      h3 2.2	Nomenclatura de la jurisdicción
   
     p.mb-4 Se refiere al nombre y tipo de entidad o nivel de autoridad que tiene competencia sobre un determinado territorio o vía terrestre. Esto es clave para saber quién tiene responsabilidad legal y operativa sobre la gestión, señalización, mantenimiento, control y monitoreo del transporte terrestre en cada zona.
     p Ejemplos de la jurisdicción en Colombia:
@@ -67,7 +72,7 @@
 
     .fullwidth-bg.fullwidth-bg--1
     #t_2_3(data-aos='zoom-in-right').titulo-segundo.color-acento-contenido.z-2
-      h3 2.3.	Riesgos viales del entorno
+      h3 2.3	Riesgos viales del entorno
 
     p.z-2 Se entienden como los elementos físicos, ambientales, sociales o de infraestructura presentes en el entorno vial que pueden provocar o aumentar la probabilidad de un accidente, afectar la movilidad o comprometer la seguridad de los usuarios en la vía.
     p.z-2.mb-4.mb-lg-5 Estos riesgos no dependen directamente del conductor, sino que están relacionados con las condiciones del entorno físico, urbano o rural por donde se transita. Identificarlos es una tarea clave del monitoreo del transporte terrestre, ya que permite prevenir incidentes y tomar decisiones para mitigar sus efectos.
@@ -84,66 +89,66 @@
 
           .tarjeta.tarjeta--blanca.p-3(x="27%" y="16%" numero="+")
             .row.justify-content-center.align-items-center.p-2
-              .col-xl-7
+              .col-xl-7.mb-4.mb-xl-0
                 .h5.mb-4 Mal estado de la vía
                 p Huecos, desniveles, pavimento deteriorado o falta de mantenimiento.
-              .col-xl-5.d-none.d-xl-block
+              .col-10.col-xl-5
                 figure
                   img(src='@/assets/curso/temas/tema2/8.png', alt='Ilustracion de acompañamiento')
           .tarjeta.tarjeta--blanca.p-3(x="60%" y="25%" numero="+")
             .row.justify-content-center.align-items-center.p-2
-              .col-xl-7
+              .col-xl-7.mb-4.mb-xl-0
                 .h5.mb-4 Señalización deficiente o inexistente
                 p Falta de señales verticales, horizontales o semáforos en puntos críticos.
-              .col-xl-5.d-none.d-xl-block
+              .col-10.col-xl-5
                 figure
                   img(src='@/assets/curso/temas/tema2/9.png', alt='Ilustracion de acompañamiento')
           .tarjeta.tarjeta--blanca.p-3(x="65%" y="55%" numero="+")
             .row.justify-content-center.align-items-center.p-2
-              .col-xl-7
+              .col-xl-7.mb-4.mb-xl-0
                 .h5.mb-4 Iluminación inadecuada
                 p Calles oscuras o con luminarias dañadas que dificultan la visibilidad nocturna.
-              .col-xl-5.d-none.d-xl-block
+              .col-10.col-xl-5
                 figure
                   img(src='@/assets/curso/temas/tema2/10.png', alt='Ilustracion de acompañamiento')
           .tarjeta.tarjeta--blanca.p-3(x="40%" y="60%" numero="+")
             .row.justify-content-center.align-items-center.p-2
-              .col-xl-7
+              .col-xl-7.mb-4.mb-xl-0
                 .h5.mb-4 Condiciones climáticas adversas
                 p Lluvias intensas, neblina, granizo o deslizamientos que afectan la transitabilidad.
-              .col-xl-5.d-none.d-xl-block
+              .col-10.col-xl-5
                 figure
                   img(src='@/assets/curso/temas/tema2/11.png', alt='Ilustracion de acompañamiento')
           .tarjeta.tarjeta--blanca.p-3(x="25%" y="70%" numero="+")
             .row.justify-content-center.align-items-center.p-2
-              .col-xl-7
+              .col-xl-7.mb-4.mb-xl-0
                 .h5.mb-4 Cruces inseguros
                 p Intersecciones mal diseñadas o pasos peatonales sin control adecuado.
-              .col-xl-5.d-none.d-xl-block
+              .col-10.col-xl-5
                 figure
                   img(src='@/assets/curso/temas/tema2/12.png', alt='Ilustracion de acompañamiento')
           .tarjeta.tarjeta--blanca.p-3(x="85%" y="78%" numero="+")
             .row.justify-content-center.align-items-center.p-2
-              .col-xl-7
+              .col-xl-7.mb-4.mb-xl-0
                 .h5.mb-4 Zonas de alto flujo peatonal sin protección.
                 p Falta de señalización, reductores de velocidad o barreras, lo que incrementa el riesgo de atropellos y accidentes graves.
-              .col-xl-5.d-none.d-xl-block
+              .col-10.col-xl-5
                 figure
                   img(src='@/assets/curso/temas/tema2/13.png', alt='Ilustracion de acompañamiento')
           .tarjeta.tarjeta--blanca.p-3(x="35%" y="40%" numero="+")
             .row.justify-content-center.align-items-center.p-2
-              .col-xl-7
+              .col-xl-7.mb-4.mb-xl-0
                 .h5.mb-4 Obstáculos en la vía
                 p Escombros, animales sueltos, vehículos mal estacionados o trabajos de obra sin señalizar.
-              .col-xl-5.d-none.d-xl-block
+              .col-10.col-xl-5
                 figure
                   img(src='@/assets/curso/temas/tema2/14.png', alt='Ilustracion de acompañamiento')
           .tarjeta.tarjeta--blanca.p-3(x="70%" y="10%" numero="+")
             .row.justify-content-center.align-items-center.p-2
-              .col-xl-7
+              .col-xl-7.mb-4.mb-xl-0
                 .h5.mb-4 Entorno urbano conflictivo
                 p altos niveles de congestión, zonas de alto riesgo de delincuencia o aglomeraciones.
-              .col-xl-5.d-none.d-xl-block
+              .col-10.col-xl-5
                 figure
                   img(src='@/assets/curso/temas/tema2/15.png', alt='Ilustracion de acompañamiento')
     
@@ -151,10 +156,43 @@
 
     .fullwidth-bg.fullwidth-bg--1
     #t_2_4(data-aos='zoom-in-right').titulo-segundo.color-acento-contenido.z-2
-      h3 2.4.	Clases y aspectos técnicos de vías
+      h3 2.4	Clases y aspectos técnicos de vías
 
     h4.graph-title.my-5.z-2(data-aos="fade-right") Clases
-    p.z-2 Las clases de vías corresponden a la categoría funcional o jerarquía que se le asigna a una vía dentro del sistema vial. Esta clasificación se basa en el tipo de servicio que presta y el nivel de conectividad que ofrece.
+    p.mb-4.mb-lg-5.z-2 Las clases de vías corresponden a la categoría funcional o jerarquía que se le asigna a una vía dentro del sistema vial. Esta clasificación se basa en el tipo de servicio que presta y el nivel de conectividad que ofrece.
+    div.slider-wrapper
+      .bg-orange
+      .tarjeta.tarjeta--blanca.p-4.pt-5.z-2.mt-5
+        SlyderA(tipo="b")
+          .row.z-2.justify-content-around
+            .col-lg-5
+              h4.mb-4 Vías nacionales
+              p.mb-3.mb-lg-0 Interconectan departamentos, regiones y grandes centros urbanos. Son responsabilidad del gobierno nacional y están diseñadas para alto flujo y velocidad.
+            .col-10.col-lg-5
+              figure
+                img(src='@/assets/curso/temas/tema2/23.png', alt='Texto que describa la imagen')
+          .row.z-2.justify-content-around
+            .col-lg-5
+              h4.mb-4 Vías departamentales
+              p.mb-3.mb-lg-0 Conectan municipios dentro de un mismo departamento. Su mantenimiento recae en los gobiernos departamentales.
+            .col-10.col-lg-5
+              figure
+                img(src='@/assets/curso/temas/tema2/24.png', alt='Texto que describa la imagen')
+          .row.z-2.justify-content-around
+            .col-lg-5
+              h4.mb-4 Vías municipales o urbanas
+              p.mb-3.mb-lg-0 Conectan barrios, zonas locales o rurales. Son competencia de las alcaldías.
+            .col-10.col-lg-5
+              figure
+                img(src='@/assets/curso/temas/tema2/25.png', alt='Texto que describa la imagen')
+          .row.z-2.justify-content-around
+            .col-lg-5
+              h4.mb-4 Vías terciarias o rurales
+              p.mb-3.mb-lg-0 Comunican veredas, zonas productivas y rurales. Generalmente de bajo volumen vehicular y menor especificación técnica.
+            .col-10.col-lg-5
+              figure
+                img(src='@/assets/curso/temas/tema2/26.png', alt='Texto que describa la imagen')
+
 
     h4.graph-title.my-5.z-2(data-aos="fade-right") Aspectos técnicos de vías
     p.mb-4.z-2 Los aspectos técnicos son las características físicas y de diseño que debe cumplir una vía para garantizar un tránsito seguro, eficiente y adecuado al tipo de vehículo que la usa. Estos aspectos se rigen por normas técnicas como el Manual de diseño geométrico de carreteras del INVIAS y otros estándares de infraestructura vial.
@@ -172,7 +210,7 @@
                 img.factores-slider__icon.mb-4(src='@/assets/curso/temas/tema2/17.png' alt='Ilustacion de acompañamiento')
             .factores-slider__title-wrapper  
               h4.factores-slider__title.mb-4 Tipo de superficie
-            p.mb-4.mb-5.text-center pavimentada (asfalto, concreto) o sin pavimentar (balastro, tierra).
+            p.mb-4.mb-5.text-center Pavimentada (asfalto, concreto) o sin pavimentar (balastro, tierra).
 
           .tarjeta.tarjeta--secundario-s5.px-4.py-5.factores-slider__tarjeta
             .row.justify-content-center.mb-3
@@ -180,7 +218,7 @@
                 img.factores-slider__icon.mb-4(src='@/assets/curso/temas/tema2/18.png' alt='Ilustacion de acompañamiento')
             .factores-slider__title-wrapper  
               h4.factores-slider__title.mb-4 Ancho de calzada y carriles
-            p.mb-4.text-center definido según el tipo de vía y volumen vehicular.
+            p.mb-4.text-center Definido según el tipo de vía y volumen vehicular.
 
           .tarjeta.tarjeta--secundario-s5.px-4.py-5.factores-slider__tarjeta
             .row.justify-content-center.mb-3
@@ -188,7 +226,7 @@
                 img.factores-slider__icon.mb-4(src='@/assets/curso/temas/tema2/19.png' alt='Ilustacion de acompañamiento')
             .factores-slider__title-wrapper  
               h4.factores-slider__title.mb-4 Pendientes, curvas y peraltes
-            p.mb-4.text-center influyen en la seguridad y velocidad del tránsito.
+            p.mb-4.text-center Influyen en la seguridad y velocidad del tránsito.
 
           .tarjeta.tarjeta--secundario-s5.px-4.py-5.factores-slider__tarjeta
             .row.justify-content-center.mb-3
@@ -196,7 +234,7 @@
                 img.factores-slider__icon.mb-4(src='@/assets/curso/temas/tema2/20.png' alt='Ilustacion de acompañamiento')
             .factores-slider__title-wrapper  
               h4.factores-slider__title.mb-4 Drenajes y obras hidráulicas
-            p.mb-4.text-center permiten el manejo adecuado de aguas lluvias para proteger la vía.
+            p.mb-4.text-center Permiten el manejo adecuado de aguas lluvias para proteger la vía.
 
           .tarjeta.tarjeta--secundario-s5.px-4.py-5.factores-slider__tarjeta
             .row.justify-content-center.mb-3
@@ -204,7 +242,7 @@
                 img.factores-slider__icon.mb-4(src='@/assets/curso/temas/tema2/21.png' alt='Ilustacion de acompañamiento')
             .factores-slider__title-wrapper  
               h4.factores-slider__title.mb-4 Señalización vial
-            p.mb-4.text-center vertical y horizontal, indispensable para la orientación y seguridad del usuario.
+            p.mb-4.text-center Vertical y horizontal, indispensable para la orientación y seguridad del usuario.
 
           .tarjeta.tarjeta--secundario-s5.px-4.py-5.factores-slider__tarjeta
             .row.justify-content-center.mb-3
@@ -212,7 +250,7 @@
                 img.factores-slider__icon.mb-4(src='@/assets/curso/temas/tema2/22.png' alt='Ilustacion de acompañamiento')
             .factores-slider__title-wrapper  
               h4.factores-slider__title.mb-4 Capacidad estructural
-            p.mb-4.text-center relacionada con el tipo de vehículos que transitan y la resistencia del pavimento.
+            p.mb-4.text-center Relacionada con el tipo de vehículos que transitan y la resistencia del pavimento.
   
 </template>
 

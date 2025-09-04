@@ -25,12 +25,12 @@
 
     .fullwidth-bg.fullwidth-bg--1
     #t_3_1(data-aos='zoom-in-right').titulo-segundo.color-acento-contenido.z-2
-      h3 3.1.	Principios y valores ciudadanos
+      h3 3.1	Principios y valores ciudadanos
 
     .row.justify-content-center.align-items-center.z-2
       .col-lg-8
         ul.checklist.checklist--location
-          li Respeto a la vida: prioriza la integridad y bienestar de todas las personas en la vía.
+          li <strong>Respeto a la vida</strong>: prioriza la integridad y bienestar de todas las personas en la vía.
           li <strong>Legalidad</strong>: promueve el cumplimiento de las normas de tránsito.
           li <strong>Responsabilidad</strong>: cada usuario es responsable de su comportamiento en la vía.
           li <strong>Solidaridad</strong>: implica empatía y apoyo mutuo entre usuarios de la vía.
@@ -46,7 +46,7 @@
     Separador
 
     #t_3_2(data-aos='zoom-in-right').titulo-segundo.color-acento-contenido.z-2
-      h3 3.2.	Convivencia vial
+      h3 3.2	Convivencia vial
 
     .bloque-texto-a.color-acento-contenido.p-4.p-md-5.mb-5
       .row.m-0.align-items-center.justify-content-between
@@ -62,14 +62,14 @@
     Separador
 
     #t_3_3(data-aos='zoom-in-right').titulo-segundo.color-acento-contenido.z-2
-      h3 3.3.	Hábitos durante el desplazamiento por las vías como conductor, peatón o pasajero
+      h3 3.3	Hábitos durante el desplazamiç
 
     p.mb-4 Son los comportamientos repetitivos, conscientes o adquiridos que las personas adoptan al interactuar en el espacio vial, ya sea en su rol de conductores, peatones o pasajeros. Estos hábitos están directamente relacionados con el nivel de seguridad, responsabilidad, eficiencia y respeto que se manifiesta durante el tránsito por las vías terrestres.
 
     .row.align-items-center.justify-content-center.bg-secundario-s5.p-4.ps-xl-0.py-xl-0
       .col-lg-5.ps-xl-0
         figure
-          img.mb-4.mb-lg-0(data-aos="fade-up")(src='@/assets/curso/temas/tema3/12.png', alt='Imagen decorativa')
+          img.mb-4.mb-lg-0(data-aos="fade-down")(src='@/assets/curso/temas/tema3/12.png', alt='Imagen decorativa')
       .col-lg-7
         p.mb-0 Los buenos hábitos, como respetar los límites de velocidad, usar el cinturón de seguridad, ceder el paso, cruzar por las cebras, evitar distracciones, usar transporte formal o no obstaculizar la vía, contribuyen a reducir la siniestralidad y mejorar la convivencia en el espacio público. Por el contrario, los malos hábitos; como el uso del celular mientras se conduce o camina, no respetar señales, subir o bajar del vehículo en lugares indebidos o invadir el carril contrario, generan conflictos, aumentan los riesgos y afectan negativamente el sistema de transporte.
 

@@ -22,7 +22,7 @@
     Separador
 
     #t_5_1(data-aos='zoom-in-right').titulo-segundo.color-acento-contenido.z-2
-      h3 5.1.	Normas según tipo de transporte
+      h3 5.1	Normas según tipo de transporte
 
     p.mb-4.mb-lg-5 En todas partes del mundo se estable una normatividad para garantizar la seguridad, contando por regulaciones especificas en cuento a su operación, permisos y equipamiento.
 
@@ -105,7 +105,7 @@
 
     Separador
     #t_5_2(data-aos='zoom-in-right').titulo-segundo.color-acento-contenido.z-2
-      h3 5.2.	Límite de velocidad
+      h3 5.2	Límite de velocidad
 
     .bloque-texto-a.color-acento-contenido.p-4.p-md-5.mb-5
       .row.m-0.align-items-center.justify-content-between
@@ -123,7 +123,7 @@
     Separador
 
     #t_5_3(data-aos='zoom-in-right').titulo-segundo.color-acento-contenido.z-2
-      h3 5.3.	Tipo de infracción
+      h3 5.3	Tipo de infracción
     
     .row.justify-content-center.align-items-center
       .col-lg-1.d-none.d-xl-block
@@ -142,7 +142,7 @@
     Separador
 
     #t_5_4(data-aos='zoom-in-right').titulo-segundo.color-acento-contenido.z-2
-      h3 5.4.	Sanciones
+      h3 5.4	Sanciones
     
     .bloque-texto-a.color-secundario.p-4.p-md-5.mb-5
       .row.m-0.align-items-center.justify-content-between
@@ -152,6 +152,20 @@
         .col-lg-4
           figure
             img.mb-4.mb-lg-0(data-aos="fade-down")(src='@/assets/curso/temas/tema5/8.png', alt='Imagen decorativa')
+
+    .row.justify-content-center.align-items-center.bg-secundario-s70.rounded-3.p-4.mb-5
+      .col-auto
+        img(src="@/assets/curso/temas/tema1/2.svg")
+      .col
+        .row.justify-content-between.align-items-center
+          .col.mb-3.mb-sm-0
+            h5.mb-1.text-acento-contenido Tránsito y seguridad vial
+            p.mb-0.text-white Lo invitamos a ver el siguiente video de transito y seguridad vial.
+          .col-sm-auto
+            a.boton.color-acento-botones(href="https://www.youtube.com/watch?v=lDQDTnMguL0" target="_blank")
+              span Ver video
+              i.fab.fa-youtube.me-2
+
 </template>
 
 <script>

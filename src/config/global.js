@@ -100,24 +100,19 @@ export default {
         subMenu: [
           {
             numero: '3.1',
-            titulo: 'Principios',
+            titulo: '	Principios y valores ciudadanos',
             hash: 't_3_1',
           },
           {
             numero: '3.2',
-            titulo: 'Valores ciudadanos',
+            titulo: 'Convivencia vial',
             hash: 't_3_2',
           },
           {
             numero: '3.3',
-            titulo: 'Convivencia vial',
-            hash: 't_3_3',
-          },
-          {
-            numero: '3.4',
             titulo:
-              'Hábitos durante el desplazamiento por las vías como conductores, peatón o pasajero',
-            hash: 't_3_4',
+              'Hábitos durante el desplazamiento por las vías como conductor, peatón o pasajero',
+            hash: 't_3_3',
           },
         ],
       },
@@ -139,18 +134,23 @@ export default {
           },
           {
             numero: '4.3',
-            titulo: 'Registro de información de conductores',
+            titulo: 'Registro de Información',
             hash: 't_4_3',
           },
           {
             numero: '4.4',
-            titulo: 'Licencias y condiciones del vehículo',
+            titulo: 'Licencias',
             hash: 't_4_4',
           },
           {
             numero: '4.5',
-            titulo: 'Seguros y responsabilidades del vehículo',
+            titulo: 'Condiciones del vehículo',
             hash: 't_4_5',
+          },
+          {
+            numero: '4.6',
+            titulo: 'Seguros y responsabilidades del vehículo',
+            hash: 't_4_6',
           },
         ],
       },
@@ -214,7 +214,7 @@ export default {
       {
         icono: 'fas fa-file-pdf',
         titulo: 'Descargar PDF',
-        download: 'downloads/dist.pdf',
+        download: 'downloads/CFA1_82220017_DU.pdf',
       },
       {
         icono: 'fas fa-download',
@@ -240,7 +240,7 @@ export default {
       tema: 'Educación Vial',
       referencia:
         'Tuteorica.com. (2023, 1 de diciembre). El concepto de Educación Vial. [Video]. YouTube',
-      tipo: 'Sitio web',
+      tipo: 'Video',
       link: 'https://www.youtube.com/watch?v=av0DpZq89mg',
     },
     {
@@ -276,7 +276,7 @@ export default {
     {
       termino: '<em>Calipers</em>',
       significado:
-        'Los calipers, o calibradores de freno, son componentes esenciales del sistema de frenos de disco en un vehículo. Su función principal es aplicar presión a las pastillas de freno contra el disco (rotor), generando fricción que permite reducir la velocidad del vehículo o detenerlo por completo.',
+        'Los <em>calipers</em>, o calibradores de freno, son componentes esenciales del sistema de frenos de disco en un vehículo. Su función principal es aplicar presión a las pastillas de freno contra el disco (rotor), generando fricción que permite reducir la velocidad del vehículo o detenerlo por completo.',
     },
     {
       termino: 'Cinturón de seguridad',
@@ -382,7 +382,7 @@ export default {
     },
     {
       referencia:
-        'Garrison, W. L., & Levinson, D. M. (2014). The Transportation Experience: Policy, Planning, and Deployment. Oxford University Press.',
+        'Garrison, W. L., & Levinson, D. M. (2014). <em>The Transportation Experience: Policy, Planning, and Deployment. Oxford University Press.</em>',
       link: '',
     },
     {
@@ -407,7 +407,7 @@ export default {
     },
     {
       referencia:
-        'Ortúzar, J. de D., & Willumsen, L. G. (2011). Modelling Transport (4th ed.). Wiley. (Ortúzar. J de D., 2011).',
+        'Ortúzar, J. de D., & Willumsen, L. G. (2011). <em>Modelling Transport</em> (4th ed.). Wiley. (Ortúzar. J de D., 2011).',
       link: '',
     },
     {
@@ -422,7 +422,7 @@ export default {
     },
     {
       referencia:
-        '<em>Rodriguez</em>, J.-P. (2020). The Geography of Transport Systems (5th ed.). Routledge.',
+        'Rodriguez, J.-P. (2020). <em>The Geography of Transport Systems (5th ed.)</em>. Routledge.',
       link: '',
     },
     {
@@ -432,7 +432,7 @@ export default {
     },
     {
       referencia:
-        'World Health Organization (WHO). (2018). Global status report on road safety 2018. WHO.',
+        '<em>World Health Organization (WHO). (2018). Global status report on road safety 2018. WHO.</em>',
       link: '',
     },
   ],
