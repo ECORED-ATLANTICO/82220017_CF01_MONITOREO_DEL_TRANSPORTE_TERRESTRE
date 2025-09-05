@@ -62,7 +62,7 @@
     Separador
 
     #t_3_3(data-aos='zoom-in-right').titulo-segundo.color-acento-contenido.z-2
-      h3 3.3	Hábitos durante el desplazamiç
+      h3 3.3	Hábitos durante el desplazamiento por las vías como conductor, peatón o pasajero
 
     p.mb-4 Son los comportamientos repetitivos, conscientes o adquiridos que las personas adoptan al interactuar en el espacio vial, ya sea en su rol de conductores, peatones o pasajeros. Estos hábitos están directamente relacionados con el nivel de seguridad, responsabilidad, eficiencia y respeto que se manifiesta durante el tránsito por las vías terrestres.
 

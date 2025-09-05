@@ -316,7 +316,7 @@ export default {
     {
       termino: 'INVIAS',
       significado:
-        'El INVÍAS (Instituto Nacional de Vías) es una entidad pública del orden nacional, adscrita al Ministerio de Transporte de Colombia, encargada de planificar, construir, conservar y administrar la infraestructura vial no concesionada del país, especialmente las vías terciarias, secundarias y algunas troncales nacionales.',
+        'El INVIAS (Instituto Nacional de Vías) es una entidad pública del orden nacional, adscrita al Ministerio de Transporte de Colombia, encargada de planificar, construir, conservar y administrar la infraestructura vial no concesionada del país, especialmente las vías terciarias, secundarias y algunas troncales nacionales.',
     },
     {
       termino: 'Micromovilidad',
@@ -422,7 +422,7 @@ export default {
     },
     {
       referencia:
-        'Rodriguez, J.-P. (2020). <em>The Geography of Transport Systems (5th ed.)</em>. Routledge.',
+        'Rodríguez, J.-P. (2020). <em>The Geography of Transport Systems (5th ed.)</em>. Routledge.',
       link: '',
     },
     {
