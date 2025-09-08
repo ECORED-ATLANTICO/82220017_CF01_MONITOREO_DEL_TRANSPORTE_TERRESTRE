@@ -38,7 +38,7 @@
     p.mb-4.mb-lg-5 Las señales de transito se clasifican en 4 grupos:
 
     TabsA.color-acento-botones
-      .tarjeta.bg-color-acento-ac5.p-5(titulo="Reglamentarias")
+      .tarjeta.bg-color-acento-ac5.p-5.py-xl-4(titulo="Reglamentarias")
         .row.justify-content-center
           .col-md-6
             h4 Reglamentarias
@@ -47,7 +47,7 @@
             figure
               img(src='@/assets/curso/temas/tema4/3.png', alt='Imagen decorativa')
 
-      .tarjeta.bg-color-acento-ac5.p-5(titulo="Preventivas")
+      .tarjeta.bg-color-acento-ac5.p-5.py-xl-4(titulo="Preventivas")
         .row.justify-content-center
           .col-md-6
             h4 Preventivas
@@ -56,7 +56,7 @@
             figure
               img(src='@/assets/curso/temas/tema4/4.png', alt='Imagen decorativa')
 
-      .tarjeta.bg-color-acento-ac5.p-5(titulo="Informativas")
+      .tarjeta.bg-color-acento-ac5.p-5.py-xl-4(titulo="Informativas")
         .row.justify-content-center
           .col-md-6
             h4 Informativas
@@ -65,7 +65,7 @@
             figure
               img(src='@/assets/curso/temas/tema4/5.png', alt='Imagen decorativa')
 
-      .tarjeta.bg-color-acento-ac5.p-5(titulo="Transitorias")
+      .tarjeta.bg-color-acento-ac5.p-5.py-xl-4(titulo="Transitorias")
         .row.justify-content-center
           .col-md-6
             h4 Transitorias
@@ -185,9 +185,9 @@
     p Las condiciones del vehículo hacen referencia al estado técnico, mecánico, estructural y funcional de todos los sistemas, componentes y elementos que conforman un automotor, garantizando que esté en capacidad óptima para circular de manera segura, eficiente y conforme a la normativa legal vigente. Estas condiciones abarcan aspectos clave como el sistema de frenos, dirección, suspensión, luces, llantas, motor, carrocería, entre otros.
 
     TabsA.color-acento-botones.mb-4.mb-lg-5
-      .tarjeta.bg-color-acento-ac5.p-5(titulo="Sistema de frenos")
+      .tarjeta.bg-color-acento-ac5.p-5.py-xl-4(titulo="Sistema de frenos")
         .row.justify-content-center
-          .col-md-6
+          .col-xl-6
             h4 Sistema de frenos
             p La función del sistema de frenos es reducir la velocidad, detener o inmovilizar el vehículo con seguridad. Su buen funcionamiento es esencial para proteger al conductor, pasajeros y demás usuarios de la vía. Está compuesto por:
             ul.checklist.checklist--location
@@ -198,13 +198,13 @@
               li Pastillas o zapatas.
               li Mordazas o <em>calipers</em>.
               li Freno de parqueo.
-          .col-md-6
+          .col-10.col-xl-6
             figure
               img(src='@/assets/curso/temas/tema4/17.png', alt='Imagen decorativa')
 
-      .tarjeta.bg-color-acento-ac5.p-5(titulo="Sistema de dirección")
+      .tarjeta.bg-color-acento-ac5.p-5.py-xl-4(titulo="Sistema de dirección")
         .row.justify-content-center
-          .col-md-6
+          .col-xl-6
             h4 Sistema de dirección
             p El sistema de dirección permite controlar la trayectoria del vehículo, guiando las ruedas delanteras mediante el volante. Asegura maniobrabilidad, estabilidad y seguridad, e incluye mecanismos mecánicos, hidráulicos o eléctricos según el tipo de vehículo. Ésta compuesto por:
             ul.checklist.checklist--location
@@ -215,13 +215,13 @@
               li Terminales de dirección.
               li Brazos o rótulas.
               li Amortiguador de dirección (en algunos vehículos).
-          .col-md-6
+          .col-10.col-xl-6
             figure
               img(src='@/assets/curso/temas/tema4/18.png', alt='Imagen decorativa')
 
-      .tarjeta.bg-color-acento-ac5.p-5(titulo="Sistema de suspensión")
+      .tarjeta.bg-color-acento-ac5.p-5.py-xl-4(titulo="Sistema de suspensión")
         .row.justify-content-center
-          .col-md-6
+          .col-xl-6
             h4 Sistema de suspensión
             p Conjunto de componentes mecánicos y elásticos que conectan las ruedas del vehículo con su chasis o carrocería, permitiendo absorber impactos y mantener la estabilidad, el confort y la seguridad durante la conducción. Está compuesto por:
             ul.checklist.checklist--location
@@ -230,13 +230,13 @@
               li Barras estabilizadoras.
               li Brazos de suspensión.
               li Rótulas y bujes.
-          .col-md-6
+          .col-10.col-xl-6
             figure
               img(src='@/assets/curso/temas/tema4/19.png', alt='Imagen decorativa')
 
-      .tarjeta.bg-color-acento-ac5.p-5(titulo="Sistema de luces")
+      .tarjeta.bg-color-acento-ac5.p-5.py-xl-4(titulo="Sistema de luces")
         .row.justify-content-center
-          .col-md-6
+          .col-xl-6
             h4 Sistema de luces
             p Conjunto de dispositivos eléctricos diseñados para iluminar la vía, mejorar la visibilidad y comunicar las acciones del conductor a otros usuarios de la carretera. Es fundamental para la seguridad activa, especialmente en condiciones de poca luz o clima adverso. Está compuesto por:
             ul.checklist.checklist--location
@@ -246,13 +246,13 @@
               li Luces de emergencia.
               li Luz de niebla.
               li Iluminación interior y del tablero.
-          .col-md-6
+          .col-10.col-xl-6
             figure
               img(src='@/assets/curso/temas/tema4/20.png', alt='Imagen decorativa')
 
-      .tarjeta.bg-color-acento-ac5.p-5(titulo="Sistema de llantas")
+      .tarjeta.bg-color-acento-ac5.p-5.py-xl-4(titulo="Sistema de llantas")
         .row.justify-content-center
-          .col-md-6
+          .col-xl-6
             h4 Sistema de llantas
             p Garantiza el contacto entre el vehículo y la superficie de la vía. Está compuesto por las llantas (neumáticos) y los rines, cumpliendo funciones clave como soportar el peso del vehículo, absorber impactos del terreno, transmitir la tracción, el frenado y la dirección. 
             p Los componentes son:
@@ -262,13 +262,13 @@
               li Válvula.
               li Banda de rodadura.
               li Costados o flancos.
-          .col-md-6
+          .col-10.col-xl-6
             figure
               img(src='@/assets/curso/temas/tema4/21.png', alt='Imagen decorativa')
 
-      .tarjeta.bg-color-acento-ac5.p-5(titulo="Sistema del motor")
+      .tarjeta.bg-color-acento-ac5.p-5.py-xl-4(titulo="Sistema del motor")
         .row.justify-content-center
-          .col-md-6
+          .col-xl-6
             h4 Sistema del motor
             p Componentes mecánicos, eléctricos y electrónicos que generan generar la energía necesaria para mover un vehículo. Su función es convertir la energía del combustible (gasolina, diésel o energía eléctrica, según el tipo de motor) en energía mecánica, para así impulsar el automóvil a través del sistema de transmisión. Se encuentra integrado por:
             ul.checklist.checklist--location  
@@ -278,13 +278,13 @@
               li Bielas.
               li Culata.
               li Válvulas.
-          .col-md-6
+          .col-10.col-xl-6
             figure
               img(src='@/assets/curso/temas/tema4/22.png', alt='Imagen decorativa')
 
-      .tarjeta.bg-color-acento-ac5.p-5(titulo="Sistema de carrocería")
+      .tarjeta.bg-color-acento-ac5.p-5.py-xl-4(titulo="Sistema de carrocería")
         .row.justify-content-center
-          .col-md-6
+          .col-xl-6
             h4 Sistema de carrocería
             p Es la estructura externa del vehículo que cubre y protege tanto a los ocupantes como a los componentes mecánicos y eléctricos. Su diseño no solo cumple funciones estéticas, sino también estructurales, de seguridad, aerodinámica y confort. Sus partes son:
             ul.checklist.checklist--location  
@@ -295,7 +295,7 @@
               li Parachoques.
               li Cofre y baúl.
               li Ventanas y parabrisas.
-          .col-md-6
+          .col-10.col-xl-6
             figure
               img(src='@/assets/curso/temas/tema4/23.png', alt='Imagen decorativa')
 
