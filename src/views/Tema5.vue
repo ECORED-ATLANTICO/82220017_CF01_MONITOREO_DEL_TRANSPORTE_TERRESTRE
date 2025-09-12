@@ -163,7 +163,7 @@
             p.mb-0.text-white Lo invitamos a ver el siguiente video de transito y seguridad vial.
           .col-sm-auto
             a.boton.color-acento-botones(href="https://www.youtube.com/watch?v=lDQDTnMguL0" target="_blank")
-              span Ver video
+              span Explorar video
               i.fab.fa-youtube.me-2
 
 </template>

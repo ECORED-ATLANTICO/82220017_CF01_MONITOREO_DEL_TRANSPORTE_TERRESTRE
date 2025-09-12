@@ -206,7 +206,7 @@
         .row.justify-content-center
           .col-xl-6
             h4 Sistema de dirección
-            p El sistema de dirección permite controlar la trayectoria del vehículo, guiando las ruedas delanteras mediante el volante. Asegura maniobrabilidad, estabilidad y seguridad, e incluye mecanismos mecánicos, hidráulicos o eléctricos según el tipo de vehículo. Ésta compuesto por:
+            p El sistema de dirección permite controlar la trayectoria del vehículo, guiando las ruedas delanteras mediante el volante. Asegura maniobrabilidad, estabilidad y seguridad, e incluye mecanismos mecánicos, hidráulicos o eléctricos según el tipo de vehículo. Está compuesto por:
             ul.checklist.checklist--location
               li Volante.
               li Columna de dirección.

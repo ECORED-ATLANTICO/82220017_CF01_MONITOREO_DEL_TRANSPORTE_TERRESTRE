@@ -147,7 +147,7 @@
             .row.justify-content-center.align-items-center.p-2
               .col-xl-7.mb-4.mb-xl-0
                 .h5.mb-4 Entorno urbano conflictivo
-                p altos niveles de congestión, zonas de alto riesgo de delincuencia o aglomeraciones.
+                p Altos niveles de congestión, zonas de alto riesgo de delincuencia o aglomeraciones.
               .col-10.col-xl-5
                 figure
                   img(src='@/assets/curso/temas/tema2/15.png', alt='Ilustracion de acompañamiento')

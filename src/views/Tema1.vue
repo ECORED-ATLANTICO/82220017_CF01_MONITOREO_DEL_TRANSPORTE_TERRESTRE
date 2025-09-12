@@ -20,7 +20,7 @@
       .col-lg-7
         p.mb-0 El transporte desde los primeros tiempos de la civilización ha sido una necesidad fundamental. Es por ello por lo que inicialmente, los desplazamientos se realizaban a pie, seguidos por el uso de animales domesticados como medio de carga y transporte de la época. Con el tiempo, surgieron tecnologías como la rueda (alrededor del 3500 a.C.), lo que marcó un antes y un después en la capacidad de mover personas y movilizar las mercancías. Las civilizaciones antiguas, como la egipcia y la romana, desarrollaron redes de caminos que sirvieron de base para los sistemas de transporte terrestre que conocemos hoy.
 
-    p.mb-4.mb-lg-5 Durante la Revolución Industrial la necesidad de mover más carga hizo que el transporte tuviese una transformación radical con la invención de la locomotora de vapor, posteriormente, el automóvil y el avión, que permitieron la conexiones más rápidas y globales (Rodríguez). En la actualidad, el transporte continúa evolucionando gracias a la digitalización, la electrificación y la movilidad inteligente, orientada a mejorar la eficiencia y sostenibilidad de los sistemas de desplazamiento.
+    p.mb-4.mb-lg-5 Durante la Revolución Industrial la necesidad de mover más carga hizo que el transporte tuviese una transformación radical con la invención de la locomotora de vapor, posteriormente, el automóvil y el avión, que permitieron la conexiones más rápidas y globales (<em>Rodríguez</em>, J.-P. (2020)). En la actualidad, el transporte continúa evolucionando gracias a la digitalización, la electrificación y la movilidad inteligente, orientada a mejorar la eficiencia y sostenibilidad de los sistemas de desplazamiento.
 
     .row.justify-content-center.align-items-center.bg-secundario-s70.rounded-3.p-4
       .col-auto
@@ -32,7 +32,7 @@
             p.mb-0.text-white Lo invitamos a ver el siguiente video de historia del transporte.
           .col-sm-auto
             a.boton.color-acento-botones(href="https://www.youtube.com/watch?v=ZAysiezOSYQ" target="_blank")
-              span Ver video
+              span Explorar video
               i.fab.fa-youtube.me-2
 
     Separador
@@ -79,7 +79,7 @@
           .row.z-2.justify-content-center.align-items-center
             .col-lg-5
               h4.mb-4 Transporte según espacio geográfico
-              p.mb-3.mb-lg-0 Define el ámbito territorial de la operación. El transporte urbano se aplica a desplazamientos dentro de l as ciudades (colectivos urbanos, taxis, metro). El interurbano se realiza entre diferentes ciudades de un mismo país.
+              p.mb-3.mb-lg-0 Define el ámbito territorial de la operación. El transporte urbano se aplica a desplazamientos dentro de las ciudades (colectivos urbanos, taxis, metro). El interurbano se realiza entre diferentes ciudades de un mismo país.
             .col-10.col-lg-6
               figure
                 img(src='@/assets/curso/temas/tema1/11.png', alt='Texto que describa la imagen')
