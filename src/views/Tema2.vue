@@ -130,7 +130,7 @@
           .tarjeta.tarjeta--blanca.p-3(x="85%" y="78%" numero="+")
             .row.justify-content-center.align-items-center.p-2
               .col-xl-7.mb-4.mb-xl-0
-                .h5.mb-4 Zonas de alto flujo peatonal sin protección.
+                .h5.mb-4 Zonas de alto flujo peatonal sin protección
                 p Falta de señalización, reductores de velocidad o barreras, lo que incrementa el riesgo de atropellos y accidentes graves.
               .col-10.col-xl-5
                 figure

@@ -5,7 +5,7 @@
     .titulo-principal.color-acento-contenido
       .titulo-principal__numero
         span 5
-      h1 Estatutos nacionales de transporte
+      h1 Estatutos Nacionales de Transporte
 
     .row.justify-content-center.align-items-center
       .col-10.col-sm-6.col-lg-4
@@ -33,7 +33,7 @@
             figure
               img.mb-4.mb-md-0(src='@/assets/curso/temas/tema5/2.png', alt='Automovil')
           .col-lg-6.mb-4.mb-md-0.p-4
-            h4 Vehículos particulares (autos, motocicletas, camionetas):
+            h4 Vehículos particulares (autos, motocicletas, camionetas)
             p Normatividad: reglamento de Tránsito local (municipal, estatal o nacional).
             p.mb-1 Requisitos:
             ul.checklist.checklist--location
@@ -114,7 +114,7 @@
             ul.checklist.checklist--location
               li <strong>Vías urbanas</strong>: máx. 60 km/h.
               li <strong>Zonas escolares y residenciales</strong>: máx. 30 km/h.
-              li <strong>Carreteras nacionales</strong>: máx. 80-100 km/h Estos pueden modificarse según señalización oficial.
+              li <strong>Carreteras nacionales</strong>: máx. 80-100 km/h. Estos pueden modificarse según señalización oficial.
             p Todo depende del país donde establezcan las normas.
         .col-lg-4.mb-4.mb-lg-0
           figure
@@ -130,7 +130,7 @@
         figure
           img.mb-4.mb-xl-0(data-aos="fade-up")(src='@/assets/curso/temas/tema5/9.svg', alt='Imagen decorativa')
       .col-lg-7
-        p Los tipos de infracción se establece según los tipos: A, B, C, D Y E, desde las leves a las más graves.
+        p Los tipos de infracción se establece según los tipos: A, B, C, D y E, desde las leves a las más graves.
         ul.checklist.checklist--location
           li Infracciones leves vial de seguridad: son faltas menores que no comprometen gravemente la seguridad vial, pero afectan el orden o las normas básicas.
           li Infracciones graves: son conductas que afectan significativamente la seguridad o el flujo normal del transporte, y que pueden generar accidentes o desorden.

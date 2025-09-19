@@ -35,9 +35,9 @@
           li <strong>Responsabilidad</strong>: cada usuario es responsable de su comportamiento en la vía.
           li <strong>Solidaridad</strong>: implica empatía y apoyo mutuo entre usuarios de la vía.
           li <strong>Prevención</strong>: se basa en anticipar riesgos para evitarlos.
-          li <strong>Tolerancia</strong>: capacidad para gestionar con equilibrio las diferencias de comportamiento en la vía, aceptando que los errores humanos son parte del sistema vial y deben afrontarse con criterio y autocontrol.
-          li <strong>Honestidad</strong>: actuación transparente y coherente con la legislación vial, incluso en ausencia de control externo, garantizando un entorno predecible y confiable para todos los usuarios.
-          li <strong>Cooperación</strong>: participación en la construcción de una cultura vial solidaria, promoviendo la interacción ordenada entre peatones, ciclistas, conductores y autoridades para mejorar la eficiencia y seguridad del sistema de transporte.
+          li <strong>Tolerancia</strong>: implica respetar a peatones, ciclistas y otros conductores, tener paciencia en el tráfico y actuar con cortesía.
+          li <strong>Honestidad</strong>: actuación transparente y coherente con la legislación vial, incluso en ausencia de control externo.
+          li <strong>Cooperación</strong>: La cooperación entre conductores, peatones, ciclistas y autoridades reduce accidentes, facilita la movilidad y promueve un entorno vial más ordenado y seguro.
 
       .col-10.col-sm-6.col-lg-4
         figure

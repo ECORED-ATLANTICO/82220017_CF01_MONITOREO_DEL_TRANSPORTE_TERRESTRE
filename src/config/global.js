@@ -1,6 +1,6 @@
 export default {
   global: {
-    Name: 'Movilidad inteligente y circulación segura',
+    Name: 'Movilidad Inteligente y Circulación Segura',
     Description:
       'La movilidad inteligente integra tecnologías para optimizar el transporte, promoviendo eficiencia, sostenibilidad y accesibilidad; junto con la circulación segura, basada en sistemas inteligentes y cultura vial, mejora la convivencia entre usuarios, reduce accidentes y el impacto ambiental. Ambas conforman un modelo integral que transforma el transporte en un sistema moderno, seguro y enfocado en el bienestar de la sociedad.',
     imagenBannerPrincipal: require('@/assets/curso/portada/banner-principal.png'),
@@ -119,7 +119,7 @@ export default {
       {
         nombreRuta: 'tema4',
         numero: '4',
-        titulo: 'Código nacional de tránsito',
+        titulo: 'Código Nacional de Tránsito',
         desarrolloContenidos: true,
         subMenu: [
           {

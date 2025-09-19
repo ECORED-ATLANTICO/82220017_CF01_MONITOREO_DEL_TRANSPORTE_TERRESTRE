@@ -5,7 +5,7 @@
     .titulo-principal.color-acento-contenido
       .titulo-principal__numero
         span 4
-      h1 Código nacional de tránsito
+      h1 Código Nacional de Tránsito
 
     .row.align-items-center.justify-content-center.bg-secundario-s5.p-4.ps-xl-0.py-xl-0.mb-4.mb-lg-5
       .col-lg-5.ps-xl-0
@@ -33,7 +33,7 @@
           img.mb-4.mb-lg-0(data-aos="fade-up")(src='@/assets/curso/temas/tema4/2.png', alt='Imagen decorativa')
 
     .cajon.color-secundario.p-4.mb-4.mb-lg-5
-      p.mb-0 Las señales de tránsito son elementos fundamentales del sistema vial cuyo objetivo es regular, guiar e informar a los usuarios de las vías, promoviendo una movilidad segura, ordenada y eficiente. Están diseñadas conforme a normas técnicas establecidas por el Ministerio de Transporte. Su correcta interpretación y cumplimiento son esenciales para prevenir accidentes, proteger la vida de peatones y conductores, y garantizar el respeto por las normas que rigen la convivencia en el espacio público
+      p.mb-0 Las señales de tránsito son elementos fundamentales del sistema vial cuyo objetivo es regular, guiar e informar a los usuarios de las vías, promoviendo una movilidad segura, ordenada y eficiente. Están diseñadas conforme a normas técnicas establecidas por el Ministerio de Transporte. Su correcta interpretación y cumplimiento son esenciales para prevenir accidentes, proteger la vida de peatones y conductores, y garantizar el respeto por las normas que rigen la convivencia en el espacio público.
 
     p.mb-4.mb-lg-5 Las señales de transito se clasifican en 4 grupos:
 
@@ -60,7 +60,7 @@
         .row.justify-content-center
           .col-md-6
             h4 Informativas
-            p Brindan datos como direcciones, nombres de calles, hospitales, establecimientos de servicios, etc
+            p Brindan datos como direcciones, nombres de calles, hospitales, establecimientos de servicios, etc.
           .col-md-6
             figure
               img(src='@/assets/curso/temas/tema4/5.png', alt='Imagen decorativa')
@@ -172,7 +172,7 @@
       .row.m-0.align-items-center.justify-content-between
         .col-lg-8.mb-4.mb-lg-0
           .bloque-texto-a__texto.p-4
-            p Este documento permite acreditar el tipo de vehículo a opera, cumplir con las condiciones técnicas y mecánicas adecuadas. En Colombia, las licencias de conducción se clasifican en categorías A, B y C, dependiendo del tipo de vehículo que se desee conducir y si es para servicio particular o público. Las categorías A son para motocicletas, las B para vehículos particulares (autos, camionetas, etc.), y las C para vehículos de servicio público.
+            p Este documento permite acreditar el tipo de vehículo a operar, cumplir con las condiciones técnicas y mecánicas adecuadas. En Colombia, las licencias de conducción se clasifican en categorías A, B y C, dependiendo del tipo de vehículo que se desee conducir y si es para servicio particular o público. Las categorías A son para motocicletas, las B para vehículos particulares (autos, camionetas, etc.), y las C para vehículos de servicio público.
         .col-lg-4.mb-4.mb-lg-0
           figure
             img.mb-4.mb-lg-0(data-aos="fade-up")(src='@/assets/curso/temas/tema4/16.png', alt='Imagen decorativa')
@@ -270,7 +270,7 @@
         .row.justify-content-center
           .col-xl-6
             h4 Sistema del motor
-            p Componentes mecánicos, eléctricos y electrónicos que generan generar la energía necesaria para mover un vehículo. Su función es convertir la energía del combustible (gasolina, diésel o energía eléctrica, según el tipo de motor) en energía mecánica, para así impulsar el automóvil a través del sistema de transmisión. Se encuentra integrado por:
+            p Componentes mecánicos, eléctricos y electrónicos que generan la energía necesaria para mover un vehículo. Su función es convertir la energía del combustible (gasolina, diésel o energía eléctrica, según el tipo de motor) en energía mecánica, para así impulsar el automóvil a través del sistema de transmisión. Se encuentra integrado por:
             ul.checklist.checklist--location  
               li Bloque motor.
               li Pistones.
@@ -304,8 +304,8 @@
         .titulo-sexto.color-acento-contenido.mb-4
           h5 Figura 2.
           span Estructura de la normativa vial
-        img.mb-1.d-sm-none(data-aos="fade-down")(src="@/assets/curso/temas/tema4/24-mob.svg", alt="Estructura de la normativa vial. La figura muestra son los componentes que hacen parte del cumplimiento de la Normatividad vial y que significa cada uno")
-        img.mb-1.d-none.d-md-block(data-aos="fade-down")(src="@/assets/curso/temas/tema4/24.svg", alt="Estructura de la normativa vial. La figura muestra son los componentes que hacen parte del cumplimiento de la Normatividad vial y que significa cada uno")
+        img.mb-1.d-sm-none(data-aos="fade-down")(src="@/assets/curso/temas/tema4/24-mob.svg", alt="En la figura 2 se muestra un diagrama de la estructura la normativa vial y sus diferentes componentes a saber: Licencias y condiciones del vehículo:  documentos que acreditan la operación segura del vehículo. Registro de información de conductores: base de datos de conductores, vehículos y licencias.  Autoridades: organismos encargados de regular y hacer cumplir las normas de transito. Código de tránsito y transporte: regula la movilidad en as vías públicas para garantizar la seguridad y eficiencia. Principios del código de tránsito: guía la seguridad vial, la protección de la vida y la convivencia ciudadana.")
+        img.mb-1.d-none.d-md-block(data-aos="fade-down")(src="@/assets/curso/temas/tema4/24.svg", alt="En la figura 2 se muestra un diagrama de la estructura la normativa vial y sus diferentes componentes a saber: Licencias y condiciones del vehículo:  documentos que acreditan la operación segura del vehículo. Registro de información de conductores: base de datos de conductores, vehículos y licencias.  Autoridades: organismos encargados de regular y hacer cumplir las normas de transito. Código de tránsito y transporte: regula la movilidad en as vías públicas para garantizar la seguridad y eficiencia. Principios del código de tránsito: guía la seguridad vial, la protección de la vida y la convivencia ciudadana.")
         figcaption <strong>Fuente:</strong> SENA, 2025.
 
     .fullwidth-bg.fullwidth-bg--1
@@ -322,12 +322,13 @@
           img.mb-4.mb-lg-0(data-aos="fade-up")(src='@/assets/curso/temas/tema4/25.png', alt='imagen decorativa')
       .col-lg-8
         p Responsabilidad: responde civilmente por daños ocasionales a terceros (persona -bienes), documento obligatorio.
+        h5 Vehículos comerciales (carga - transporte de mercancías):
         ul.checklist.checklist--location
           li SOAT o equivalente.
           li Seguro de responsabilidad civil extracontractual de mayor cobertura.
-          li Seguro de carga: permite proteger la mercancía de robo, daño o perdida.
+          li Seguro de carga: permite proteger la mercancía de robo, daño o pérdida.
           li Póliza de transporte: nacional o internacional, según rutas.
-          li RC (Responsabilidad civil) contractual y extracontractual de amplio espectro.
+          li RC (Responsabilidad Civil) contractual y extracontractual de amplio espectro.
 
     .titulo-sexto.color-acento-contenido.mb-4
       h5 Tabla 1.
@@ -379,13 +380,13 @@
             td Seguro de carga, póliza de transporte
             td Accidente personal, perdida de ganancias
             td Riesgos especiales, pólizas ambientales
-            td Cubre daños a tercero.
+            td Cubre daños a tercero
           tr(style="background-color: #F6F6F6")
             td Responsabilidades
             td Responsabilidad civil por daños
             td Perdida o daño de mercancías
             td Cumplimiento de condiciones de seguridad
-            td Cumplimiento de regulaciones estrictas.
+            td Cumplimiento de regulaciones estrictas
             td Daños personales/materiales
     
 </template>

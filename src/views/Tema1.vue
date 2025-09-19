@@ -20,7 +20,7 @@
       .col-lg-7
         p.mb-0 El transporte desde los primeros tiempos de la civilización ha sido una necesidad fundamental. Es por ello por lo que inicialmente, los desplazamientos se realizaban a pie, seguidos por el uso de animales domesticados como medio de carga y transporte de la época. Con el tiempo, surgieron tecnologías como la rueda (alrededor del 3500 a.C.), lo que marcó un antes y un después en la capacidad de mover personas y movilizar las mercancías. Las civilizaciones antiguas, como la egipcia y la romana, desarrollaron redes de caminos que sirvieron de base para los sistemas de transporte terrestre que conocemos hoy.
 
-    p.mb-4.mb-lg-5 Durante la Revolución Industrial la necesidad de mover más carga hizo que el transporte tuviese una transformación radical con la invención de la locomotora de vapor, posteriormente, el automóvil y el avión, que permitieron la conexiones más rápidas y globales (<em>Rodríguez</em>, J.-P. (2020)). En la actualidad, el transporte continúa evolucionando gracias a la digitalización, la electrificación y la movilidad inteligente, orientada a mejorar la eficiencia y sostenibilidad de los sistemas de desplazamiento.
+    p.mb-4.mb-lg-5 Durante la Revolución Industrial, la necesidad de mover más carga hizo que el transporte tuviese una transformación radical con la invención de la locomotora de vapor, posteriormente, el automóvil y el avión, que permitieron laa conexiones más rápidas y globales (<em>Rodríguez</em>, J.-P. (2020)). En la actualidad, el transporte continúa evolucionando gracias a la digitalización, la electrificación y la movilidad inteligente, orientada a mejorar la eficiencia y sostenibilidad de los sistemas de desplazamiento.
 
     .row.justify-content-center.align-items-center.bg-secundario-s70.rounded-3.p-4
       .col-auto
@@ -28,7 +28,7 @@
       .col
         .row.justify-content-between.align-items-center
           .col.mb-3.mb-sm-0
-            h5.mb-1.text-acento-contenido Historia de los Medios de Transportes Terrestres
+            h5.mb-1.text-acento-contenido Historia de los medios de transportes terrestres
             p.mb-0.text-white Lo invitamos a ver el siguiente video de historia del transporte.
           .col-sm-auto
             a.boton.color-acento-botones(href="https://www.youtube.com/watch?v=ZAysiezOSYQ" target="_blank")
@@ -92,7 +92,7 @@
                 img(src='@/assets/curso/temas/tema1/12.png', alt='Texto que describa la imagen')
           .row.z-2.justify-content-center.align-items-center
             .col-lg-5
-              h4.mb-4 Trasporte de forma de organización 
+              h4.mb-4 Transporte de forma de organización 
               p.mb-3.mb-lg-0 Este criterio se relaciona con el modelo de negocio o la estructura bajo la cual se presta el servicio. Ejemplos incluyen el transporte individual (vehículo particular), transporte colectivo (buses, trenes), transporte multimodal (combinación de varios modos), o servicios especializados (como transporte de valores o de mercancías peligrosas).
             .col-10.col-lg-6
               figure
@@ -173,7 +173,7 @@
     #t_1_5(data-aos='zoom-in-right').titulo-segundo.color-acento-contenido.z-2
       h3 1.5	Medios de transporte
     
-    p.mb-4.mb-lg-5.z-2 El transporte terrestre comprende todos aquellos vehículos que se movilizan por vías terrestres, como carreteras, autopistas, calles, senderos o vías férreas. Se clasifican principalmente en transporte de pasajeros y transporte de carga, y cada tipo presenta características técnicas y operativas específicas que deben ser consideradas en los procesos de planificación, seguimiento y evaluación. La clasificación del transporte terrestre esta de la siguiente manera:
+    p.mb-4.mb-lg-5.z-2 El transporte terrestre comprende todos aquellos vehículos que se movilizan por vías terrestres, como carreteras, autopistas, calles, senderos o vías férreas. Se clasifican principalmente en transporte de pasajeros y transporte de carga, y cada tipo presenta características técnicas y operativas específicas que deben ser consideradas en los procesos de planificación, seguimiento y evaluación. La clasificación del transporte terrestre está de la siguiente manera:
 
     .row.justify-content-center.mb-4.mb-lg-5.z-2
       .col-md-8.col-lg-6.mb-4
@@ -214,8 +214,8 @@
         .titulo-sexto.color-acento-contenido.mb-4
           h5 Figura 1.
           span Clasificación del transporte
-        img.mb-1.d-sm-none(data-aos="fade-down")(src="@/assets/curso/temas/tema1/25-mob.svg", alt="se describe la clasificación del transporte según su función. Autobuses públicos: facilitan el acceso equitativo al transporte urbano. Automóviles personales: brindan autonomía en el transporte diario. Vehículos personales de carga: ofrecen flexibilidad en el transporte privado. Camiones de carga: son esenciales para el transporte publico de mercancías.")
-        img.mb-1.d-none.d-md-block(data-aos="fade-down")(src="@/assets/curso/temas/tema1/25.svg", alt="se describe la clasificación del transporte según su función. Autobuses públicos: facilitan el acceso equitativo al transporte urbano. Automóviles personales: brindan autonomía en el transporte diario. Vehículos personales de carga: ofrecen flexibilidad en el transporte privado. Camiones de carga: son esenciales para el transporte publico de mercancías.")
+        img.mb-1.d-sm-none(data-aos="fade-down")(src="@/assets/curso/temas/tema1/25-mob.svg", alt="En la figura 1 se describe la clasificación del transporte según su función. Autobuses públicos : facilitan el acceso equitativo al transporte urbano. Automóviles personales: brindan autonomía en el transporte diario. Vehículos personales de carga: ofrecen flexibilidad en el transporte privado. Camiones de carga: son esenciales para el transporte público de mercancías.")
+        img.mb-1.d-none.d-md-block(data-aos="fade-down")(src="@/assets/curso/temas/tema1/25.svg", alt="En la figura 1 se describe la clasificación del transporte según su función. Autobuses públicos : facilitan el acceso equitativo al transporte urbano. Automóviles personales: brindan autonomía en el transporte diario. Vehículos personales de carga: ofrecen flexibilidad en el transporte privado. Camiones de carga: son esenciales para el transporte público de mercancías.")
         figcaption <strong>Fuente:</strong> SENA, 2025.
 
 </template>
