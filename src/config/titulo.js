@@ -1,1 +1,1 @@
-module.exports = 'Movilidad Inteligente y Circulación Segura'
+module.exports = 'Movilidad inteligente y circulación segura'
