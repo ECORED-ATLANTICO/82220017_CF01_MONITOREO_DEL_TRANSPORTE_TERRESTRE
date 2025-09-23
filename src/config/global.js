@@ -157,7 +157,7 @@ export default {
       {
         nombreRuta: 'tema5',
         numero: '5',
-        titulo: 'Estatus nacionales del transporte',
+        titulo: 'Estatutos Nacionales del Transporte',
         desarrolloContenidos: true,
         subMenu: [
           {

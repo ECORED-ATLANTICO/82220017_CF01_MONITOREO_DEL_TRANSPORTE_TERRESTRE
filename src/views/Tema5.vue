@@ -114,7 +114,7 @@
             ul.checklist.checklist--location
               li <strong>Vías urbanas</strong>: máx. 60 km/h.
               li <strong>Zonas escolares y residenciales</strong>: máx. 30 km/h.
-              li <strong>Carreteras nacionales</strong>: máx. 80-100 km/h. Estos pueden modificarse según señalización oficial.
+              li <strong>Carreteras nacionales</strong>: máx. 80-100 km/h estos pueden modificarse según señalización oficial.
             p Todo depende del país donde establezcan las normas.
         .col-lg-4.mb-4.mb-lg-0
           figure

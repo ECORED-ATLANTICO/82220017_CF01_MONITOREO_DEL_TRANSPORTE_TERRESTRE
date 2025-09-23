@@ -83,7 +83,7 @@
     .row.justify-content-center.align-items-center.z-2
       .col-lg-8
         p Los principios del Código Nacional de Tránsito Terrestre de Colombia, establecidos en la Ley 769 de 2002, constituyen el fundamento normativo y ético que guía la regulación del comportamiento de todos los actores viales en el país. Estos principios orientan la aplicación de las normas de tránsito con el fin de garantizar la seguridad vial, proteger la vida y la integridad física de las personas, conservar el medio ambiente, y asegurar una movilidad eficiente, equitativa y ordenada.
-        p Principios fundamentales del código nacional de transito:
+        p Principios fundamentales del Código Nacional de Tránsito:
         ul.checklist.checklist--location
           li La seguridad de las personas como prioridad en la movilidad.
           li La protección del medio ambiente mediante un tránsito sostenible y responsable.
@@ -321,7 +321,7 @@
         figure
           img.mb-4.mb-lg-0(data-aos="fade-up")(src='@/assets/curso/temas/tema4/25.png', alt='imagen decorativa')
       .col-lg-8
-        p Responsabilidad: responde civilmente por daños ocasionales a terceros (persona -bienes), documento obligatorio.
+        p Responsabilidad: responde civilmente por daños ocasionales a terceros (persona - bienes), documento obligatorio.
         h5 Vehículos comerciales (carga - transporte de mercancías):
         ul.checklist.checklist--location
           li SOAT o equivalente.
